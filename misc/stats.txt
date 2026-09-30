@@ -1,1 +1,41 @@
-a Xs=19  Ox=45   X:random          O:empty-adjb Xs=14  Ox=50   X:random          O:empty-adj+corners=20c Xs=21  Ox=43   X:corners=20,100  O:empty-adjd Xs= 8  Ox=56   X:corners=-100    O:empty-adj(b)@@@@@@@@@@@oxxooooo@@oxoooooo@@oxoooooo@@oooooxoo@@ooooxooo@@Xxxxoxoo@@xxooxooo@@oooooooo@@@@@@@@@@@ (c)@@@@@@@@@@@oxxxxxxx@@ooOooooo@@ooooxxox@@oooxooxx@@ooxoooxx@@ooooooxx@@xoooooox@@ooooooox@@@@@@@@@@@(d)@@@@@@@@@@@oooooooo@@oooooooo@@ooooxoxo@@ooooooxo@@ooooooxo@@ooooxoxo@@ooooxxoo@@oooooooO@@@@@@@@@@@
+a Xs=19  Ox=45   X:random          O:empty-adj
+b Xs=14  Ox=50   X:random          O:empty-adj+corners=20
+c Xs=21  Ox=43   X:corners=20,100  O:empty-adj
+d Xs= 8  Ox=56   X:corners=-100    O:empty-adj
+
+(b)
+@@@@@@@@@@
+@oxxooooo@
+@oxoooooo@
+@oxoooooo@
+@oooooxoo@
+@ooooxooo@
+@Xxxxoxoo@
+@xxooxooo@
+@oooooooo@
+@@@@@@@@@@
+
+ 
+(c)
+@@@@@@@@@@
+@oxxxxxxx@
+@ooOooooo@
+@ooooxxox@
+@oooxooxx@
+@ooxoooxx@
+@ooooooxx@
+@xoooooox@
+@ooooooox@
+@@@@@@@@@@
+
+(d)
+@@@@@@@@@@
+@oooooooo@
+@oooooooo@
+@ooooxoxo@
+@ooooooxo@
+@ooooooxo@
+@ooooxoxo@
+@ooooxxoo@
+@oooooooO@
+@@@@@@@@@@

@@ -1,1 +1,922 @@
-JELLOchange o to x = -5 * 2 = -10add x = -6blocks 2 = + 2Total = -14-19 + 5 = -14JELLO@@@@@@@@@@@........@@.      .@@. 1221 .@@. 2ox2 .@@. 2xo2 .@@. 1221 .@@.      .@@........@@@@@@@@@@@ EmpAdj = 12,  {4/12 generated}gIncScore = 0 --> -14B moves 3, 2@@@@@@@@@@@........@@. 111  .@@. 2X31 .@@. 3xx2 .@@. 2xo2 .@@. 1221 .@@.      .@@........@@@@@@@@@@@ EmpAdj = 14,   5 disks {3/14 generated}gIncScore = 14 --> 0W moves 4, 2@@@@@@@@@@@........@@. 1221 .@@. 2xO2 .@@. 3xo3 .@@. 2xo2 .@@. 1221 .@@.      .@@........@@@@@@@@@@@ EmpAdj = 14,   6 disks {5/14 generated}gIncScore = 0 --> -12B moves 5, 3@@@@@@@@@@@........@@. 1221 .@@. 2xo31.@@. 3xxX1.@@. 2xo31.@@. 1221 .@@.      .@@........@@@@@@@@@@@ EmpAdj = 16,   7 disks {4/16 generated}gIncScore = 12 --> -8W moves 2, 2@@@@@@@@@@@........@@.12321 .@@.1Ooo31.@@.14oxx1.@@. 2xo31.@@. 1221 .@@.      .@@........@@@@@@@@@@@ EmpAdj = 18,   8 disks {7/18 generated}gIncScore = 8 --> -2B moves 5, 4@@@@@@@@@@@........@@.12321 .@@.1ooo31.@@.14oxx2.@@. 2xxX2.@@. 12321.@@.      .@@........@@@@@@@@@@@ EmpAdj = 18,   9 disks {6/18 generated}gIncScore = 2 --> -14W moves 6, 3@@@@@@@@@@@........@@.12321 .@@.1ooo424@@.14oooO4@@. 2xxx34@@. 12321.@@.      .@@........@@@@@@@@@@@ EmpAdj = 20,   10 disks {7/20 generated}gIncScore = 14 --> 2B moves 6, 2@@@@@@@@@@@........@@.1232214@@.1ooo5X5@@.14ooxo5@@. 2xxx34@@. 12321.@@.      .@@........@@@@@@@@@@@ EmpAdj = 21,   11 disks {7/21 generated}gIncScore = -2 --> -10W moves 6, 4@@@@@@@@@@@........@@.1232214@@.1ooo5x5@@.14oooo6@@. 2xxxO5@@. 123324@@.      .@@........@@@@@@@@@@@ EmpAdj = 21,   12 disks {8/21 generated}gIncScore = 10 --> 1B moves 7, 2@@@@@@@@@@@........@@.1232225@@.1ooo5xX@@.14ooox7@@. 2xxxo5@@. 123324@@.      .@@........@@@@@@@@@@@ EmpAdj = 20,   13 disks {9/20 generated}gIncScore = -1 --> -8W moves 7, 3@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14ooooO@@. 2xxxo6@@. 123324@@.      .@@........@@@@@@@@@@@ EmpAdj = 19,   14 disks {7/19 generated}gIncScore = 8 --> -3B moves 7, 4@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooox@@. 2xxxxX@@. 123335@@.      .@@........@@@@@@@@@@@ EmpAdj = 18,   15 disks {8/18 generated}gIncScore = 3 --> -13W moves 6, 5@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooox@@. 2xxoox@@. 1234O6@@.    114@@........@@@@@@@@@@@ EmpAdj = 20,   16 disks {9/20 generated}gIncScore = 13 --> 5B moves 5, 5@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooox@@. 2xxoxx@@. 124Xo6@@.   1224@@........@@@@@@@@@@@ EmpAdj = 20,   17 disks {9/20 generated}gIncScore = -5 --> -17W moves 5, 6@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooox@@. 2xxoxx@@. 125oo6@@.   2O34@@....444.@@@@@@@@@@@ EmpAdj = 22,   18 disks {9/22 generated}gIncScore = 17 --> 11B moves 4, 5@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooxx@@. 2xxxxx@@. 13Xoo6@@.  13o34@@....444.@@@@@@@@@@@ EmpAdj = 22,   19 disks {7/22 generated}gIncScore = -11 --> -14W moves 7, 5@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooxx@@. 2xxxox@@. 13xooO@@.  13o45@@....444.@@@@@@@@@@@ EmpAdj = 21,   20 disks {12/21 generated}gIncScore = 14 --> 6B moves 4, 6@@@@@@@@@@@........@@.1232225@@.1ooo5xx@@.14oooxx@@. 2xxxxx@@. 14xxoo@@.  2Xo45@@...4554.@@@@@@@@@@@ EmpAdj = 21,   21 disks {8/21 generated}gIncScore = -6 --> -18W moves 2, 3@@@@@@@@@@@........@@.1232225@@.2ooo5xx@@.2Ooooxx@@.13oxxxx@@. 14oxoo@@.  2xo45@@...4554.@@@@@@@@@@@ EmpAdj = 21,   22 disks {13/21 generated}gIncScore = 18 --> 14B moves 5, 2@@@@@@@@@@@........@@.1233335@@.2oooXxx@@.2oooxxx@@.13oxxxx@@. 14oxoo@@.  2xo45@@...4554.@@@@@@@@@@@ EmpAdj = 20,   23 disks {6/20 generated}gIncScore = -14 --> -18W moves 6, 6@@@@@@@@@@@........@@.1233335@@.2oooxxx@@.2oooxxx@@.13ooxxx@@. 14oooo@@.  2xoO6@@...45656@@@@@@@@@@@ EmpAdj = 20,   24 disks {13/20 generated}gIncScore = 18 --> 12B moves 3, 5@@@@@@@@@@@........@@.1233335@@.2oooxxx@@.2oooxxx@@.14oxxxx@@. 2Xoooo@@. 13xoo6@@...45656@@@@@@@@@@@ EmpAdj = 20,   25 disks {7/20 generated}gIncScore = -12 --> -22W moves 5, 1@@@@@@@@@@@....444.@@.1234O45@@.2ooooxx@@.2ooooxx@@.14oxoxx@@. 2xoooo@@. 13xoo6@@...45656@@@@@@@@@@@ EmpAdj = 22,   26 disks {12/22 generated}gIncScore = 22 --> 18B moves 3, 6@@@@@@@@@@@....444.@@.1234o45@@.2ooooxx@@.2ooooxx@@.14oxxxx@@. 3xxooo@@. 2Xxoo6@@..456656@@@@@@@@@@@ EmpAdj = 22,   27 disks {6/22 generated}gIncScore = -18 --> -24W moves 6, 1@@@@@@@@@@@....4556@@.1234oO6@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xxooo@@. 2xxoo6@@..456656@@@@@@@@@@@ EmpAdj = 22,   28 disks {15/22 generated}gIncScore = 24 --> 15B moves 7, 7@@@@@@@@@@@....4556@@.1234oo6@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xxxoo@@. 2xxox7@@..45666X@@@@@@@@@@@ EmpAdj = 21,   29 disks {9/21 generated}gIncScore = -15 --> -20W moves 7, 6@@@@@@@@@@@....4556@@.1234oo6@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xxxoo@@. 2xxooO@@..45667x@@@@@@@@@@@ EmpAdj = 20,   30 disks {13/20 generated}gIncScore = 20 --> 13B moves 5, 7@@@@@@@@@@@....4556@@.1234oo6@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xxxoo@@. 2xxxoo@@..457X8x@@@@@@@@@@@ EmpAdj = 19,   31 disks {7/19 generated}gIncScore = -13 --> -16W moves 6, 7@@@@@@@@@@@....4556@@.1234oo6@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xoxoo@@. 2xxooo@@..457xOx@@@@@@@@@@@ EmpAdj = 18,   32 disks {11/18 generated}gIncScore = 16 --> 17B moves 4, 7@@@@@@@@@@@....4556@@.1234oo6@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xoxxo@@. 2xxxoo@@..46Xxox@@@@@@@@@@@ EmpAdj = 17,   33 disks {5/17 generated}gIncScore = -17 --> -18W moves 7, 1@@@@@@@@@@@....4567@@.1234ooO@@.2oooooo@@.2oooooo@@.14oxxoo@@. 3xoxxo@@. 2xxxoo@@..46xxox@@@@@@@@@@@ EmpAdj = 16,   34 disks {9/16 generated}gIncScore = 18 --> 13B moves 7, 0@@@@@@@@@@@....457X@@.1234oox@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xoxxx@@. 2xxxox@@..46xxox@@@@@@@@@@@ EmpAdj = 15,   35 disks {4/15 generated}gIncScore = -13 --> -24W moves 2, 7@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.2ooooox@@.14oxxox@@. 3xoxxx@@.13oxxox@@.4O7xxox@@@@@@@@@@@ EmpAdj = 16,   36 disks {13/16 generated}gIncScore = 24 --> 14B moves 2, 6@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.2ooooox@@.14oxxox@@.14xoxxx@@.2Xxxxox@@.5o8xxox@@@@@@@@@@@ EmpAdj = 16,   37 disks {4/16 generated}gIncScore = -14 --> -30W moves 2, 5@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.2ooooox@@.25oxxox@@.2Oooxxx@@.3oxxxox@@.5o8xxox@@@@@@@@@@@ EmpAdj = 15,   38 disks {14/15 generated}gIncScore = 30 --> 22B moves 2, 4@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.3ooooox@@.3Xxxxox@@.3oxoxxx@@.3oxxxox@@.5o8xxox@@@@@@@@@@@ EmpAdj = 14,   39 disks {3/14 generated}gIncScore = -22 --> -30W moves 1, 5@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.3ooooox@@44oxxxox@@4Ooxoxxx@@44oxxxox@@.5o8xxox@@@@@@@@@@@ EmpAdj = 16,   40 disks {13/16 generated}gIncScore = 30 --> 21B moves 1, 7@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.3ooooox@@44oxxxox@@4ooxoxxx@@55xxxxox@@6Xo8xxox@@@@@@@@@@@ EmpAdj = 16,   41 disks {3/16 generated}gIncScore = -21 --> -29W moves 1, 6@@@@@@@@@@@....457x@@.1234oox@@.2ooooox@@.3ooooox@@44oxxxox@@5ooxoxxx@@6Oooooox@@7xo8xxox@@@@@@@@@@@ EmpAdj = 15,   42 disks {14/15 generated}gIncScore = 29 --> 26B moves 6, 0@@@@@@@@@@@....46Xx@@.1234oxx@@.2ooooxx@@.3ooooxx@@44oxxxxx@@5ooxoxxx@@6oooooox@@7xo8xxox@@@@@@@@@@@ EmpAdj = 14,   43 disks {2/14 generated}gIncScore = -26 --> -23W moves 3, 7@@@@@@@@@@@....46xx@@.1234oxx@@.2ooooxx@@.3ooooxx@@44oxxxxx@@5ooxoxxx@@6oooooox@@7xoOooox@@@@@@@@@@@ EmpAdj = 13,   44 disks {12/13 generated}gIncScore = 23 --> 9B moves 4, 1@@@@@@@@@@@...457xx@@.124Xxxx@@.2ooxxxx@@.3ooxoxx@@44oxxxxx@@5ooxoxxx@@6oooooox@@7xooooox@@@@@@@@@@@ EmpAdj = 13,   45 disks {4/13 generated}gIncScore = -9 --> -13W moves 3, 1@@@@@@@@@@@..4567xx@@.13Oxxxx@@.2oooxxx@@.3ooxoxx@@44oxxxxx@@5ooxoxxx@@6oooooox@@7xooooox@@@@@@@@@@@ EmpAdj = 13,   46 disks {10/13 generated}gIncScore = 13 --> 0B moves 0, 5@@@@@@@@@@@..4567xx@@.13oxxxx@@.2oooxxx@@.3ooxoxx@@55oxxxxx@@Xxxxoxxx@@7oooooox@@7xooooox@@@@@@@@@@@ EmpAdj = 12,   47 disks {6/12 generated}gIncScore = 0 --> -7W moves 0, 6@@@@@@@@@@@..4567xx@@.13oxxxx@@.2oooxxx@@.3ooxoxx@@55oxxxxx@@xoxxoxxx@@Ooooooox@@8xooooox@@@@@@@@@@@ EmpAdj = 11,   48 disks {8/11 generated}gIncScore = 7 --> 6B moves 0, 7@@@@@@@@@@@..4567xx@@.13oxxxx@@.2oooxxx@@.3ooxoxx@@55oxxxxx@@xoxxoxxx@@xxooooox@@Xxooooox@@@@@@@@@@@ EmpAdj = 10,   49 disks {3/10 generated}gIncScore = -6 --> -8W moves 1, 4@@@@@@@@@@@..4567xx@@.13oxxxx@@.2oooxxx@@44ooxoxx@@6Ooxxxxx@@xooxoxxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 10,   50 disks {7/10 generated}gIncScore = 8 --> -1B moves 0, 4@@@@@@@@@@@..4567xx@@.13oxxxx@@.2oooxxx@@55ooxoxx@@Xxxxxxxx@@xooxoxxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 9,   51 disks {4/9 generated}gIncScore = 1 --> -5W moves 1, 3@@@@@@@@@@@..4567xx@@.13oxxxx@@43oooxxx@@6Oooxoxx@@xooxxxxx@@xooooxxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 9,   52 disks {7/9 generated}gIncScore = 5 --> -6B moves 3, 0@@@@@@@@@@@..5X77xx@@.14xxxxx@@43oxoxxx@@6ooxxoxx@@xooxxxxx@@xooooxxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 8,   53 disks {3/8 generated}gIncScore = 6 --> -5W moves 4, 0@@@@@@@@@@@..5xO8xx@@.14ooxxx@@43oxoxxx@@6ooxxoxx@@xooxxxxx@@xooooxxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 7,   54 disks {6/7 generated}gIncScore = 5 --> 0B moves 2, 0@@@@@@@@@@@.4Xxo8xx@@.25xoxxx@@43oxxxxx@@6ooxxxxx@@xooxxxxx@@xooooxxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 7,   55 disks {3/7 generated}gIncScore = 0 --> -1W moves 5, 0@@@@@@@@@@@.4xxoOxx@@.25xooxx@@43oxxoxx@@6ooxxoxx@@xooxxoxx@@xoooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 6,   56 disks {3/6 generated}gIncScore = 1 --> -17B moves 1, 2@@@@@@@@@@@.4xxooxx@@436xooxx@@5Xxxxoxx@@7xxxxoxx@@xxoxxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 6,   57 disks {6/6 generated}gIncScore = 17 --> 6W moves 1, 0@@@@@@@@@@@6Oooooxx@@547xooxx@@5xxxxoxx@@7xxxxoxx@@xxoxxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 6,   58 disks {1/6 generated}gIncScore = -6 --> -21B moves 0, 0@@@@@@@@@@@Xxxxxxxx@@657xooxx@@5xxxxoxx@@7xxxxoxx@@xxoxxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 5,   59 disks {5/5 generated}gIncScore = 21 --> 8W moves 0, 1@@@@@@@@@@@xxxxxxxx@@O67xooxx@@6oxxxoxx@@7xoxxoxx@@xxooxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 4,   60 disks {2/4 generated}gIncScore = -8 --> -14B moves 1, 1@@@@@@@@@@@xxxxxxxx@@oX8xooxx@@7xxxxoxx@@7xoxxoxx@@xxooxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 3,   61 disks {3/3 generated}gIncScore = 14 --> 4W moves 2, 1@@@@@@@@@@@xxxxxxxx@@ooOoooxx@@7xooxoxx@@7xoxooxx@@xxooxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 2,   62 disks {1/2 generated}gIncScore = -4 --> -5B moves 0, 2@@@@@@@@@@@xxxxxxxx@@xxooooxx@@Xxooxoxx@@8xoxooxx@@xxooxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 1,   63 disks {1/1 generated}gIncScore = 5 --> 0W moves 0, 3@@@@@@@@@@@xxxxxxxx@@xxooooxx@@xoooxoxx@@Oooxooxx@@xoooxoxx@@xxooooxx@@xxooooox@@xxooooox@@@@@@@@@@@ EmpAdj = 0,   64 disks
+JELLO
+
+change o to x = -5 * 2 = -10
+add x = -6
+blocks 2 = + 2
+Total = -14
+
+-19 + 5 = -14
+
+JELLO
+
+@@@@@@@@@@
+@........@
+@.      .@
+@. 1221 .@
+@. 2ox2 .@
+@. 2xo2 .@
+@. 1221 .@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 12,  {4/12 generated}
+gIncScore = 0 --> -14
+B moves 3, 2
+@@@@@@@@@@
+@........@
+@. 111  .@
+@. 2X31 .@
+@. 3xx2 .@
+@. 2xo2 .@
+@. 1221 .@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 14,   5 disks
+
+ {3/14 generated}
+gIncScore = 14 --> 0
+W moves 4, 2
+@@@@@@@@@@
+@........@
+@. 1221 .@
+@. 2xO2 .@
+@. 3xo3 .@
+@. 2xo2 .@
+@. 1221 .@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 14,   6 disks
+
+ {5/14 generated}
+gIncScore = 0 --> -12
+B moves 5, 3
+@@@@@@@@@@
+@........@
+@. 1221 .@
+@. 2xo31.@
+@. 3xxX1.@
+@. 2xo31.@
+@. 1221 .@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 16,   7 disks
+
+ {4/16 generated}
+gIncScore = 12 --> -8
+W moves 2, 2
+@@@@@@@@@@
+@........@
+@.12321 .@
+@.1Ooo31.@
+@.14oxx1.@
+@. 2xo31.@
+@. 1221 .@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 18,   8 disks
+
+ {7/18 generated}
+gIncScore = 8 --> -2
+B moves 5, 4
+@@@@@@@@@@
+@........@
+@.12321 .@
+@.1ooo31.@
+@.14oxx2.@
+@. 2xxX2.@
+@. 12321.@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 18,   9 disks
+
+ {6/18 generated}
+gIncScore = 2 --> -14
+W moves 6, 3
+@@@@@@@@@@
+@........@
+@.12321 .@
+@.1ooo424@
+@.14oooO4@
+@. 2xxx34@
+@. 12321.@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 20,   10 disks
+
+ {7/20 generated}
+gIncScore = 14 --> 2
+B moves 6, 2
+@@@@@@@@@@
+@........@
+@.1232214@
+@.1ooo5X5@
+@.14ooxo5@
+@. 2xxx34@
+@. 12321.@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 21,   11 disks
+
+ {7/21 generated}
+gIncScore = -2 --> -10
+W moves 6, 4
+@@@@@@@@@@
+@........@
+@.1232214@
+@.1ooo5x5@
+@.14oooo6@
+@. 2xxxO5@
+@. 123324@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 21,   12 disks
+
+ {8/21 generated}
+gIncScore = 10 --> 1
+B moves 7, 2
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xX@
+@.14ooox7@
+@. 2xxxo5@
+@. 123324@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 20,   13 disks
+
+ {9/20 generated}
+gIncScore = -1 --> -8
+W moves 7, 3
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14ooooO@
+@. 2xxxo6@
+@. 123324@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 19,   14 disks
+
+ {7/19 generated}
+gIncScore = 8 --> -3
+B moves 7, 4
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooox@
+@. 2xxxxX@
+@. 123335@
+@.      .@
+@........@
+@@@@@@@@@@
+ EmpAdj = 18,   15 disks
+
+ {8/18 generated}
+gIncScore = 3 --> -13
+W moves 6, 5
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooox@
+@. 2xxoox@
+@. 1234O6@
+@.    114@
+@........@
+@@@@@@@@@@
+ EmpAdj = 20,   16 disks
+
+ {9/20 generated}
+gIncScore = 13 --> 5
+B moves 5, 5
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooox@
+@. 2xxoxx@
+@. 124Xo6@
+@.   1224@
+@........@
+@@@@@@@@@@
+ EmpAdj = 20,   17 disks
+
+ {9/20 generated}
+gIncScore = -5 --> -17
+W moves 5, 6
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooox@
+@. 2xxoxx@
+@. 125oo6@
+@.   2O34@
+@....444.@
+@@@@@@@@@@
+ EmpAdj = 22,   18 disks
+
+ {9/22 generated}
+gIncScore = 17 --> 11
+B moves 4, 5
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooxx@
+@. 2xxxxx@
+@. 13Xoo6@
+@.  13o34@
+@....444.@
+@@@@@@@@@@
+ EmpAdj = 22,   19 disks
+
+ {7/22 generated}
+gIncScore = -11 --> -14
+W moves 7, 5
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooxx@
+@. 2xxxox@
+@. 13xooO@
+@.  13o45@
+@....444.@
+@@@@@@@@@@
+ EmpAdj = 21,   20 disks
+
+ {12/21 generated}
+gIncScore = 14 --> 6
+B moves 4, 6
+@@@@@@@@@@
+@........@
+@.1232225@
+@.1ooo5xx@
+@.14oooxx@
+@. 2xxxxx@
+@. 14xxoo@
+@.  2Xo45@
+@...4554.@
+@@@@@@@@@@
+ EmpAdj = 21,   21 disks
+
+ {8/21 generated}
+gIncScore = -6 --> -18
+W moves 2, 3
+@@@@@@@@@@
+@........@
+@.1232225@
+@.2ooo5xx@
+@.2Ooooxx@
+@.13oxxxx@
+@. 14oxoo@
+@.  2xo45@
+@...4554.@
+@@@@@@@@@@
+ EmpAdj = 21,   22 disks
+
+ {13/21 generated}
+gIncScore = 18 --> 14
+B moves 5, 2
+@@@@@@@@@@
+@........@
+@.1233335@
+@.2oooXxx@
+@.2oooxxx@
+@.13oxxxx@
+@. 14oxoo@
+@.  2xo45@
+@...4554.@
+@@@@@@@@@@
+ EmpAdj = 20,   23 disks
+
+ {6/20 generated}
+gIncScore = -14 --> -18
+W moves 6, 6
+@@@@@@@@@@
+@........@
+@.1233335@
+@.2oooxxx@
+@.2oooxxx@
+@.13ooxxx@
+@. 14oooo@
+@.  2xoO6@
+@...45656@
+@@@@@@@@@@
+ EmpAdj = 20,   24 disks
+
+ {13/20 generated}
+gIncScore = 18 --> 12
+B moves 3, 5
+@@@@@@@@@@
+@........@
+@.1233335@
+@.2oooxxx@
+@.2oooxxx@
+@.14oxxxx@
+@. 2Xoooo@
+@. 13xoo6@
+@...45656@
+@@@@@@@@@@
+ EmpAdj = 20,   25 disks
+
+ {7/20 generated}
+gIncScore = -12 --> -22
+W moves 5, 1
+@@@@@@@@@@
+@....444.@
+@.1234O45@
+@.2ooooxx@
+@.2ooooxx@
+@.14oxoxx@
+@. 2xoooo@
+@. 13xoo6@
+@...45656@
+@@@@@@@@@@
+ EmpAdj = 22,   26 disks
+
+ {12/22 generated}
+gIncScore = 22 --> 18
+B moves 3, 6
+@@@@@@@@@@
+@....444.@
+@.1234o45@
+@.2ooooxx@
+@.2ooooxx@
+@.14oxxxx@
+@. 3xxooo@
+@. 2Xxoo6@
+@..456656@
+@@@@@@@@@@
+ EmpAdj = 22,   27 disks
+
+ {6/22 generated}
+gIncScore = -18 --> -24
+W moves 6, 1
+@@@@@@@@@@
+@....4556@
+@.1234oO6@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xxooo@
+@. 2xxoo6@
+@..456656@
+@@@@@@@@@@
+ EmpAdj = 22,   28 disks
+
+ {15/22 generated}
+gIncScore = 24 --> 15
+B moves 7, 7
+@@@@@@@@@@
+@....4556@
+@.1234oo6@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xxxoo@
+@. 2xxox7@
+@..45666X@
+@@@@@@@@@@
+ EmpAdj = 21,   29 disks
+
+ {9/21 generated}
+gIncScore = -15 --> -20
+W moves 7, 6
+@@@@@@@@@@
+@....4556@
+@.1234oo6@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xxxoo@
+@. 2xxooO@
+@..45667x@
+@@@@@@@@@@
+ EmpAdj = 20,   30 disks
+
+ {13/20 generated}
+gIncScore = 20 --> 13
+B moves 5, 7
+@@@@@@@@@@
+@....4556@
+@.1234oo6@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xxxoo@
+@. 2xxxoo@
+@..457X8x@
+@@@@@@@@@@
+ EmpAdj = 19,   31 disks
+
+ {7/19 generated}
+gIncScore = -13 --> -16
+W moves 6, 7
+@@@@@@@@@@
+@....4556@
+@.1234oo6@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xoxoo@
+@. 2xxooo@
+@..457xOx@
+@@@@@@@@@@
+ EmpAdj = 18,   32 disks
+
+ {11/18 generated}
+gIncScore = 16 --> 17
+B moves 4, 7
+@@@@@@@@@@
+@....4556@
+@.1234oo6@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xoxxo@
+@. 2xxxoo@
+@..46Xxox@
+@@@@@@@@@@
+ EmpAdj = 17,   33 disks
+
+ {5/17 generated}
+gIncScore = -17 --> -18
+W moves 7, 1
+@@@@@@@@@@
+@....4567@
+@.1234ooO@
+@.2oooooo@
+@.2oooooo@
+@.14oxxoo@
+@. 3xoxxo@
+@. 2xxxoo@
+@..46xxox@
+@@@@@@@@@@
+ EmpAdj = 16,   34 disks
+
+ {9/16 generated}
+gIncScore = 18 --> 13
+B moves 7, 0
+@@@@@@@@@@
+@....457X@
+@.1234oox@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xoxxx@
+@. 2xxxox@
+@..46xxox@
+@@@@@@@@@@
+ EmpAdj = 15,   35 disks
+
+ {4/15 generated}
+gIncScore = -13 --> -24
+W moves 2, 7
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@. 3xoxxx@
+@.13oxxox@
+@.4O7xxox@
+@@@@@@@@@@
+ EmpAdj = 16,   36 disks
+
+ {13/16 generated}
+gIncScore = 24 --> 14
+B moves 2, 6
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.2ooooox@
+@.14oxxox@
+@.14xoxxx@
+@.2Xxxxox@
+@.5o8xxox@
+@@@@@@@@@@
+ EmpAdj = 16,   37 disks
+
+ {4/16 generated}
+gIncScore = -14 --> -30
+W moves 2, 5
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.2ooooox@
+@.25oxxox@
+@.2Oooxxx@
+@.3oxxxox@
+@.5o8xxox@
+@@@@@@@@@@
+ EmpAdj = 15,   38 disks
+
+ {14/15 generated}
+gIncScore = 30 --> 22
+B moves 2, 4
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.3ooooox@
+@.3Xxxxox@
+@.3oxoxxx@
+@.3oxxxox@
+@.5o8xxox@
+@@@@@@@@@@
+ EmpAdj = 14,   39 disks
+
+ {3/14 generated}
+gIncScore = -22 --> -30
+W moves 1, 5
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.3ooooox@
+@44oxxxox@
+@4Ooxoxxx@
+@44oxxxox@
+@.5o8xxox@
+@@@@@@@@@@
+ EmpAdj = 16,   40 disks
+
+ {13/16 generated}
+gIncScore = 30 --> 21
+B moves 1, 7
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.3ooooox@
+@44oxxxox@
+@4ooxoxxx@
+@55xxxxox@
+@6Xo8xxox@
+@@@@@@@@@@
+ EmpAdj = 16,   41 disks
+
+ {3/16 generated}
+gIncScore = -21 --> -29
+W moves 1, 6
+@@@@@@@@@@
+@....457x@
+@.1234oox@
+@.2ooooox@
+@.3ooooox@
+@44oxxxox@
+@5ooxoxxx@
+@6Oooooox@
+@7xo8xxox@
+@@@@@@@@@@
+ EmpAdj = 15,   42 disks
+
+ {14/15 generated}
+gIncScore = 29 --> 26
+B moves 6, 0
+@@@@@@@@@@
+@....46Xx@
+@.1234oxx@
+@.2ooooxx@
+@.3ooooxx@
+@44oxxxxx@
+@5ooxoxxx@
+@6oooooox@
+@7xo8xxox@
+@@@@@@@@@@
+ EmpAdj = 14,   43 disks
+
+ {2/14 generated}
+gIncScore = -26 --> -23
+W moves 3, 7
+@@@@@@@@@@
+@....46xx@
+@.1234oxx@
+@.2ooooxx@
+@.3ooooxx@
+@44oxxxxx@
+@5ooxoxxx@
+@6oooooox@
+@7xoOooox@
+@@@@@@@@@@
+ EmpAdj = 13,   44 disks
+
+ {12/13 generated}
+gIncScore = 23 --> 9
+B moves 4, 1
+@@@@@@@@@@
+@...457xx@
+@.124Xxxx@
+@.2ooxxxx@
+@.3ooxoxx@
+@44oxxxxx@
+@5ooxoxxx@
+@6oooooox@
+@7xooooox@
+@@@@@@@@@@
+ EmpAdj = 13,   45 disks
+
+ {4/13 generated}
+gIncScore = -9 --> -13
+W moves 3, 1
+@@@@@@@@@@
+@..4567xx@
+@.13Oxxxx@
+@.2oooxxx@
+@.3ooxoxx@
+@44oxxxxx@
+@5ooxoxxx@
+@6oooooox@
+@7xooooox@
+@@@@@@@@@@
+ EmpAdj = 13,   46 disks
+
+ {10/13 generated}
+gIncScore = 13 --> 0
+B moves 0, 5
+@@@@@@@@@@
+@..4567xx@
+@.13oxxxx@
+@.2oooxxx@
+@.3ooxoxx@
+@55oxxxxx@
+@Xxxxoxxx@
+@7oooooox@
+@7xooooox@
+@@@@@@@@@@
+ EmpAdj = 12,   47 disks
+
+ {6/12 generated}
+gIncScore = 0 --> -7
+W moves 0, 6
+@@@@@@@@@@
+@..4567xx@
+@.13oxxxx@
+@.2oooxxx@
+@.3ooxoxx@
+@55oxxxxx@
+@xoxxoxxx@
+@Ooooooox@
+@8xooooox@
+@@@@@@@@@@
+ EmpAdj = 11,   48 disks
+
+ {8/11 generated}
+gIncScore = 7 --> 6
+B moves 0, 7
+@@@@@@@@@@
+@..4567xx@
+@.13oxxxx@
+@.2oooxxx@
+@.3ooxoxx@
+@55oxxxxx@
+@xoxxoxxx@
+@xxooooox@
+@Xxooooox@
+@@@@@@@@@@
+ EmpAdj = 10,   49 disks
+
+ {3/10 generated}
+gIncScore = -6 --> -8
+W moves 1, 4
+@@@@@@@@@@
+@..4567xx@
+@.13oxxxx@
+@.2oooxxx@
+@44ooxoxx@
+@6Ooxxxxx@
+@xooxoxxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 10,   50 disks
+
+ {7/10 generated}
+gIncScore = 8 --> -1
+B moves 0, 4
+@@@@@@@@@@
+@..4567xx@
+@.13oxxxx@
+@.2oooxxx@
+@55ooxoxx@
+@Xxxxxxxx@
+@xooxoxxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 9,   51 disks
+
+ {4/9 generated}
+gIncScore = 1 --> -5
+W moves 1, 3
+@@@@@@@@@@
+@..4567xx@
+@.13oxxxx@
+@43oooxxx@
+@6Oooxoxx@
+@xooxxxxx@
+@xooooxxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 9,   52 disks
+
+ {7/9 generated}
+gIncScore = 5 --> -6
+B moves 3, 0
+@@@@@@@@@@
+@..5X77xx@
+@.14xxxxx@
+@43oxoxxx@
+@6ooxxoxx@
+@xooxxxxx@
+@xooooxxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 8,   53 disks
+
+ {3/8 generated}
+gIncScore = 6 --> -5
+W moves 4, 0
+@@@@@@@@@@
+@..5xO8xx@
+@.14ooxxx@
+@43oxoxxx@
+@6ooxxoxx@
+@xooxxxxx@
+@xooooxxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 7,   54 disks
+
+ {6/7 generated}
+gIncScore = 5 --> 0
+B moves 2, 0
+@@@@@@@@@@
+@.4Xxo8xx@
+@.25xoxxx@
+@43oxxxxx@
+@6ooxxxxx@
+@xooxxxxx@
+@xooooxxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 7,   55 disks
+
+ {3/7 generated}
+gIncScore = 0 --> -1
+W moves 5, 0
+@@@@@@@@@@
+@.4xxoOxx@
+@.25xooxx@
+@43oxxoxx@
+@6ooxxoxx@
+@xooxxoxx@
+@xoooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 6,   56 disks
+
+ {3/6 generated}
+gIncScore = 1 --> -17
+B moves 1, 2
+@@@@@@@@@@
+@.4xxooxx@
+@436xooxx@
+@5Xxxxoxx@
+@7xxxxoxx@
+@xxoxxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 6,   57 disks
+
+ {6/6 generated}
+gIncScore = 17 --> 6
+W moves 1, 0
+@@@@@@@@@@
+@6Oooooxx@
+@547xooxx@
+@5xxxxoxx@
+@7xxxxoxx@
+@xxoxxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 6,   58 disks
+
+ {1/6 generated}
+gIncScore = -6 --> -21
+B moves 0, 0
+@@@@@@@@@@
+@Xxxxxxxx@
+@657xooxx@
+@5xxxxoxx@
+@7xxxxoxx@
+@xxoxxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 5,   59 disks
+
+ {5/5 generated}
+gIncScore = 21 --> 8
+W moves 0, 1
+@@@@@@@@@@
+@xxxxxxxx@
+@O67xooxx@
+@6oxxxoxx@
+@7xoxxoxx@
+@xxooxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 4,   60 disks
+
+ {2/4 generated}
+gIncScore = -8 --> -14
+B moves 1, 1
+@@@@@@@@@@
+@xxxxxxxx@
+@oX8xooxx@
+@7xxxxoxx@
+@7xoxxoxx@
+@xxooxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 3,   61 disks
+
+ {3/3 generated}
+gIncScore = 14 --> 4
+W moves 2, 1
+@@@@@@@@@@
+@xxxxxxxx@
+@ooOoooxx@
+@7xooxoxx@
+@7xoxooxx@
+@xxooxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 2,   62 disks
+
+ {1/2 generated}
+gIncScore = -4 --> -5
+B moves 0, 2
+@@@@@@@@@@
+@xxxxxxxx@
+@xxooooxx@
+@Xxooxoxx@
+@8xoxooxx@
+@xxooxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 1,   63 disks
+
+ {1/1 generated}
+gIncScore = 5 --> 0
+W moves 0, 3
+@@@@@@@@@@
+@xxxxxxxx@
+@xxooooxx@
+@xoooxoxx@
+@Oooxooxx@
+@xoooxoxx@
+@xxooooxx@
+@xxooooox@
+@xxooooox@
+@@@@@@@@@@
+ EmpAdj = 0,   64 disks
+
+

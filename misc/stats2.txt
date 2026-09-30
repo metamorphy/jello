@@ -1,1 +1,483 @@
-@xxooxxoxxxooooxoooxxxxoxxxxxxxoxxxoxxoooooxoxoxoxxooxxxoox@@xxxoxoxxxooooooxoxxxxxxoxoxxxxxxxoxooooooooxoxxxoxxooooxox@@xxoxoxxxoooxxoooxxxooooooxooxxxxooxoooooooooxxxxxoxxoxxxox@@xxooxxxooooxxxoxxxxoooxxxooooxxoooooooooooxoxxxxxooooooxox@@xxooxxxxooooxoxxxoooooxxxooxxxxoooooooooooooooooooxxxoxoox@@xxoxoxxoxooooxxxooxxxoooxoxxxxoxooooooooxoxoooxxxxxxoooxox@@xxooxxoxoxooxoxooxoxxxoooxoxooxxoooooooooxoxoooooxxoxxxxox@@xxoxooxxxxoxxxoooxxoxxoooxxooxxoxoxooooxooxoooooxoooxoxxox@@xxxooxxxxxxoooooooxxooxxoxxooxoooxoxxoxxxxoooooxoooxoxxoox@@xxooxxxxxxxxxxxoxxxxooxxxooxooxoooxooxxxxxooooxoooxoxxooox@@xxooxxxxxxxxoooxooooxxxxoooooxooooxxxxxxxxxooxoxooxoxxooox@@xoooxxxxoooxxoooxoooxxxxoooooxxxooooxxxxxxxxxoxoxoxoooxoox@@xxoxoooooooxoooooxoxxxoxoooooxxxxooooooooooxxxoxoxxoooxxox@@xoxxxxxxoxxxoxxxxxxxxooxooooxxxxxxoooxxxxxxxxxxxxoxooxoxoo@@xxoooooxoxxoxxoxoxxxoooxoooxxxxxxxxxxxxxxxxxxxxxxxoxxxooox@@xoxxxoooxxoxxxxoxxxxooxxxoxxxxxooxxoxxooxooxxxxxxxxoxoooox@@ooooxxxooxoxxxxxxoxoxxooxxxxxxxxoxxxxxxxxxxoxxxxxxoxoxooxx@@xoxooxxxooxoxxxxoxooxxxxooxxxxxxxxxxxxxxoxoxoxxxxoxxxooxxx@@xxoooxxxoxoxoxxxxxxxooooxooxxxxxxxxxxxxxxooxooxxoxxxxooxxx@@xxxoxoxoxooooooooooxoooxooooooooooxoxoooxxoxoxooxoxoooxoxx@@xxxxoxoxxoxoooooooooxoxoxxxxxxxooooxoooxoxxoooxxoooooxxxxx@@xxooxoooooooooxxxxxxxxxxxxxxxxxxxxxooooooooooxxxxxxxxxxxxx@@xoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=1660 Ox=1704 EmpAdj=0   Player 1: 30378  Player 2: 35254@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo@@xxxxooooooooooxxxxxooooooxoooxxxoxoooooooooooooooooooooooooo@@ooxxxoxxxxxxxxxoooxxoooxxxxxxoooxoooooxxxoxoxooxoooooooooooo@@ooxxxxxoooxxxxxxxxxxxoxoxxxxxoxxxxxooxoxoxxooxooxooooooooooo@@ooooxxoooxxxxxooooooxoxooxoooxoxxxoooxxooxxoxoxxoxoooooxoooo@@oooxooooooxoooooxxoooxxoxoxoooxoxooxxxoxxxxxxxxxxoxooooxxooo@@ooxxoooxxxoooxoxxxxxxxxxoxoooooxooooxooxxoxxxxoxxoxxoooxxooo@@oxxoooxxxoooxxxxxxxooxxxxoxoxoxoooxxooxooxoxoxxooxooxooxxooo@@oxoooxoxoxxxxxxxooooxoxoxxoxxxooooxooxooxooxooxoooxooxooxxoo@@oooooxxoxxxxxxxooxoxoooxoxxxxxxxxxxxxxxxoooooooooooooooooxoo@@oooxoooooxoxxxxxxoooooooxooxxxooooxoooxxoooxoxxooooooxxxxxoo@@ooxxooooxoxxoooxoooooooooxxoxoxxxxxooxoooooxooxxxxxxxxoxoxoo@@oxxxoooxxooxoxxxxoxooooooxooxxoxxxooxooooxooooooxoooooxoxxoo@@oxxxooxxxxoooxxoxxxxoooxxoooxooooxxxooooxooooooooxxxoxxxxxoo@@oxxxoxxxxoxooxxoxoxoxoxxoxxoxoooooxxooooxxoooooxoxxooxxoxxox@@oxxooxoxoxxxooxxxxxxoxxxoxxxxoooooooxoxxoxooooooxooxxxoxoooo@@oxoxoooxxooxxoxxxxxoxxxxooxoxoooooooxxxxooxooooxxxooxoxoxxoo@@oxoxoxxxxooxxooxxxxoxxxxoxxxooxooxoxoxooxooxooxxooxooxooxxoo@@oxoooxxxxooooxxoxxxxoxxxoxxooxxxooxoxooxooooxxoxoooxooxxxxoo@@oxoxooxoxooooxxoxxxxxoxooxooxoxoxxoxooooxoooxxxoooooooxxxxoo@@oxoxoooxooooxoxxoxxxxxooxooxoxxooooooooooxoxxxxxoooooxoxxooo@@ooooxoxooooxoxooxxxxxxxxooxxxxxoooooxoooooxxxxxxxoooxxxoxxoo@@oooooxxoooooxooxxxxxxxxooooooxxxxxoxooooxoxxxxxoxxoxxxoooxoo@@ooxoxxxxxoooooooooooooxoxoxoooxoooxooooxxxoxxxxxxxxxxxxxxxoo@@oooxxoxoooooooxoxxxxxooxoxoxoooxxxooooxxxxxoooxxooxxxxooxxoo@@ooxxxxoxoooooooxoxxxxooxxxxoxoooxooooooxxxxxoooooxxxooxxxxoo@@oooxxxxoooooooooxoxxxxxoxxxxooooxxooxooxxxoxxoxxxxxxoxxxxxoo@@ooxoxxoxoooooxoooxoxxxxoooxxxoxoooxxoooxxoxoxoooooxoxxxxoxoo@@ooxxxxxoxooxooooooxoxxxxxooooxxoxooxooxoooooooxoxoooxoxoxxoo@@ooxxxxxxoxxxxooxoooxoxxxxxooxoxxxoooxxooooooxoxxoooxxxooxxoo@@ooxoxxooxxxxxxooxoooxoxxxxxoxooxxoooxxxoooooxoxxxoooxoooxxoo@@oxxooxxoxxxxxooooooooooxxxxxoxooxooxoxxxooooxoxoxxooooooxxoo@@ooxoooxxxxxxoxxxooooooxoxxxxooxoxoxxxoxxxxxoxooxxoxoooooxxoo@@oxxoooxxxxxooxxxxxooooooxxxxxoooxxooxooxxxxoxoxxxooxoooxxxoo@@oxxooxxxoxoxxoxxxxooooooooxxxxooxxooooooxxxxooxxooxoxoooxxoo@@oxxooxxxxxoxxxoxxxoooxoooxoxxxxoxxxxxooxoxxxxoxoxxxooxooxxoo@@oxxoooxxxxoxxxxoxxooxxxoooooxxxxooooxxooooxxxxooxxxoooxoxxoo@@oxxoxooxoxooxxxxoxooxxxxxooooxxxxxoooxxxxooxxxoxooxxoxoxoxoo@@oxxooxooxxxoxxxxxoooxxxxxooooooooooooooxooooxxxoxooxxoxoxxoo@@oxooooooxxooxxxxxxoooxxxxxoooooxxxxoooxxxxxooxxxxoooxxoxoxoo@@oxxoooooxxxxxxxxxxooooxxxxxxoxxoxxxxxxoxxoxxxxxxxooxxxxoxooo@@oxxooooxxxxxooxxxxoooxxxxxxxooxxxxxxxoxxoooooooooxxxxxxxoxoo@@oxxoxoxoxxxxoooxxxooxxxxxxxxoxoxxxxxooxxooxoxxoxxxxxooxxoooo@@oxxooooxxxxxxooxxxxxxxxooxxxooxoxxxoxoxxxoxxxoxooxxoooxxxooo@@oxxooooooooooooxoxxxxxxoooxoooxoxxoxoxxxooxooxoxxooooxoxoxoo@@oxoooooxxxooxxooooxxxxxxoxoooooxxoxoxxxoooxoooxxxooxxoxoxooo@@oxooxoxoxxxxoxoooooxxxooxooooxxxoooxxxooooxoooxxoxoxoooooooo@@oxoxxoxxoxxxooooooooxxxxoooooxxooooxxoooxoxooxooxxxoooxxxooo@@ooxxxoxxxoxxxxxxxxxxxxxoooooxooxooxxooxxoxooxxoxxxxxoxxxoooo@@oxxoxoxxxxoxxooooxoooxooooxxooxoxooooooooooooooxxxxoxxxooxoo@@oxxoxoxxxxooxxoxooooxooooxxooxoooxoooooxoxxxxxoxxxoxxxooooxo@@oxxxooxxxooooxxoxoxxooooxxxoxoooooxoooooxxxxxxxoooxxxooooxoo@@oxxxoxxoooooooxoooooooooxooxooooxxoxoooooxxxxxxxoxxxoooooxoo@@oxxoxxxooxoxxxoxxxoooooxooxoxoxxooooxoooooxxxxoxxoxoxooooooo@@oxoxxxxoxoxxxxxoxoooooxooxoooxxxoooooxooxooxxoxoxxoooooooooo@@oxoxxxoooooooooooooxoxooxoooooxooooxooxxxxxoxooooxxoxoxooxoo@@oxxxoxoooooooooooxxxxxxxxooooxooooxxxxoooooxooxoooxxooxooxoo@@oxoxoxoooooooooooooxxxooooxoxoxoooxxxxooxxxxxooxoxoxxxxooxoo@@oxxxxoxxxxxxxxxxxxxxxxxxxxoxoooooooooooooooooxxoxxxxxxxxoooo@@oxxxoooooooooooooooooooooooooooooooooooooooooooooooooooooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=1636 Ox=1964 EmpAdj=0   Player 1: 32014  Player 2: 37218@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@xxxxxxxxxxxxxxxxxxxxxoooooooooooxoxxxxooooooxxxooooooxxxxxxx@@xxxoxxxoooxxoooxxxxxxxxxxoxoooooooxxxooxxxoxxxxxxxooxoooooox@@xoxxoooooooooooxooxxxxxxxxxxxxxoooooooooxxooooooxooxoooxxoox@@xoxoxoooooooooxxoooxxxxxxxxxxoxxoxxxoxoooxxxxxxxxxxxooxoxoxx@@xooxoxxxxoxooxxxxxxxxoxxxxoooxooxoooxoxoxooxxxxxxxoooxxxooxx@@xoxoooxxoxooxoxoxxxoxoxxoxxxxooxxxxooooxoxoxxxooxoooxxxoooxx@@xooxxxxoxooxoxoooxxxxxoxxxxxxxxooxxxooooxxoxxxxooooxxxooooox@@xooxxooxoxxoooooooooooooooxxxxoooooooxoooxooxxxoooxxxooooxox@@xoooooxoxxxxxooxooxxoooooxoxoxoooxooxxxooooxxxxxxxxxooxxooxx@@xooooxooxxoxoxxooxxxoxoxxoxxxoxxxoxxxxxxoxoxxxxoxxxooxxxooxx@@xoxooooxxxxoxxxoxxxxxxxxooxxooooxxoxxxxxxoxxxooxoxxoxxxxooxx@@xooxooxxxxoxxxoxoxxxoxxxooxoxooooxxxxxxxxxxxxxxxxxxxxxxxxxxx@@xoxxxxxoxoxxooxxxxxoxoxxooxooxoxxxoxoxoxxoxxxoxxooxxxxoxooxx@@xooxxoxxoxxooooxxxxxooxxooxooooooxxxxooxoxoxxxxxxxxxxxxxooxx@@xooxxoxoxxooxxooxxxoxoxoxoxoooxxoxxxxoxoxxoxooxxxxxxxxoxooxx@@xoxooxoxxoxxxxoxxxoxxoxooxxxooxxxoxxoxoxxoxoooxxxxxxxoxoooxx@@xoooxoxxoxxxxoxxxxxoooxxooxxxooxxxooxooxxooxoooxxxxxxxxxoxxx@@xoxooxxxxoxooxxxoooooooxxoxxxoxxoxxxoooxoxooxoooxxxxxxoxoxxx@@xoxoxxxxooxoxxxoooooxxooooxoxxoxoxxoooooxooxoxoooxxxxoxxoxxx@@xooxxxxxxxxxxxxxxxxxxxxxxxooxxoxoxoxxooxooxxxoxoooxxxxoxooxx@@xooooooooxoxooxxoooxoxxxxooxoxxxxxoxoxxooxxxxxxxoooxxxxooxxx@@xooxoxooxoxxxoxxxxooxoxxoxxooxoxoxoooxoooxoxxxoxxooxxxxxxxxx@@xoxoxxxxxxxxxooxoxxooxxoxxxoxxoxxxooxoooooxxxoooxxooxxxxxxxx@@xoxxoxooxoxxxoxxxoxooooxxxxxooxxxoxoooooooxxooxxxxxoooxxoxxx@@xoxxxoxooxoxoxxxoxoxxooxxxxooooooxoooooooxxoooooooxxxoxoooxx@@xxxxxxooooooooxxxoxoxxooooooxooooxoooooooxooooooooxxxxooooxx@@xooxxoxoooooxxoxxxoxoxoooooxoooooxoxxooxooxoxoooooxxxxxoooxx@@xoooxxxxoooooxxoxxxoxoxoooooooxooxoxxoxxooooooxxoooxxxxxoxxx@@xoooxxxxxoooooxooxxxxooxooooooxxoxoxoxxoxxooooooooooxxoxxxxx@@xooooxxxxxooooooooxxxxooxooooooxoxooxxxooooooxxxxxxooooooxxx@@xoooxooxxxxooooooooxxxxxoxoooxxoxxoxxooxxxooxoxxxxxooooxxoxx@@xooooxooxoxxoooooxooxxxxxxxoxoxxoxxoxooooooxoooxxoooooxxooxx@@xoooxoxxooxxxooooxoooxxxxxxxoxooxxxoxoxxxxxoxxoxoooxxxxoxoxx@@xooooxxxxoxxxooxoxoxooxoooxoxoxoxxxxoxxxxxooxxxoxoxxxxxoooxx@@xoxoxxxoxoxxoxxoxoxxxxooxxxxxxoxxxxoxxxxxxxxoxoooxoxxooxooxx@@xoxoxoxxoxxooxxxoxxxxxxoxxxxxxxoxxoxooxxooooooxoxxxxooxxooxx@@xoxooxxooxoooxxoxxxxxxxxoxoxxxxxxooxxoxoooxooooxxxxxooxoxoxx@@xoxoxxoooxxoooooxxxxxoooxoxooxxxoooxxxooxxxoooxxxxxxxooooxxx@@xoxxxooooxxoxooxxxxxxooxxxxoooxooooxxxxoxxxooxxoxxxxxoxoxoxx@@xooxxooooxxoooxxxxxoooooxxxooxoxoooooxxxxxxoxxoxxxxxooxoxxxx@@xooxxxxxoxoooxxxxxoooooooxxxxoxooooxoxxxxxoxxoxxxxxoxooxxxxx@@xooxoxxxxoooxxxoooxxooxoxxxoxxooxxoxoxoxxxxxoxxxxxoxxoxoxxxx@@xoooooooxxooxxooooxoxxoxoxxoxxoxxxxxxoooxxxoxxxxxoxxxooxooxx@@xooxoooooxxxxooooooxoxxoxxxxooxoooxooxoooxxxxxxxoxxxooxoxoxx@@xoxoooooooxxxooxxxxxxoxooxxxxoxxoooxoxooooxxxxxoxoxoxooooxxx@@xoxoooooxooxxoooooooxxoxoxxoxxxxxoooxooooooxxooxxxooooxxxoxx@@xoxooxxooxxxoooooooooxxoxoxxxxxooxoooxooooxoxooxxoooooxxoxxx@@xoxxoxoooxoooooxooooooxxoxooxxxoxoxoooxooxoooxxooxooooxoxoxx@@xoxoooooxoooooxxxooooooxxoxooxoxoxxxoooxxoxoooxoooxoooooooxx@@xoxxoooxoooooxxxxxooooooxxoxooxooxxxxooxoxoxoooooooxooxxooxx@@xoxxooxooooxxxxxxxxooooooxxxooxoooxxxxxoxoxoxoxoxooxoxxoooox@@xoxxxxoxxooooooooooooooooxxoxooooooxxxoxoxxooxoxoxxooxxoxoxo@@xoxxxxxooxoxoxxxoooxxxxxxxxxxxxoxoxxxoxoxxxoxoxoxxxxoxoxxoxx@@xooxxxxoooxxoxxoooxoxxoooooooooxxxoxoxoxxoxxoooxxxxxxxxxxoxx@@xoooxxxxoooxoxooxxoxooxoooooooxoxoxoxoxxoxxxxoxxxxxxxxxxxoxx@@xooxooxxooxooooooooooxxxxxxxoxoxxooxoxxxooxxxxxxxxxxxxxoxoxx@@xoxxoxoxooooooooooooooooooooxoooxoxoooxxxooxooooooxxooxxooxx@@xxxxxooooxxoooxooooooooooooxooooxooooooooooooooooooooxxxxoxx@@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=1965 Ox=1635 EmpAdj=0   Player 1: 33649  Player 2: 39183@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@oooooooooooooooooooooooooooxoooooooooooooooooooooooooooooooooo@@oxxxxxxxoxoxxxxxoooxoxxxxxxxxxxxoxxoooooxxxxxxxxxxxxxxxxxxoooo@@oxxxoxxoooxxooxxxxxxxxxoxxxoxxxoxxxxoxooxxooxxxoxxxoxxxxxxxooo@@ooxxxxoxoxoxoooooooooooxoxoxooxooxxxooxxoooooooxxxxxooxxoooxoo@@oooxxxxoxooxoxxxxxxoxxxooxxxxxoxooxxoooxxxoooxxxxxxoooooooooxo@@ooooxxoxxooxoooxoxoxxxxooxoxxxxooxoxooooxxxooooxxxxxoxxoooxxoo@@oooooxxoxooxxoxoooooxxoxxoxxxxoxxooxxoooxxxxooxxxooxoxoooxxxoo@@oxooxoxxoxxxoxooooxxxxxoxxoxxooxoooooxooxxxxxooxoooxoxooxxoxxo@@oxoooxoxxoxxxoooooxxxxxxxxxoxoxooxoooxxxxxxxxxoooxoxooxxxxoxxo@@oxooooooxxoxxxxoxxxxxxxxoxxxoxooxoooxooxoxxoxxooxoooooooxxoxoo@@oxooxxooxoxxxxoxxxxxxxxxxxooxooxoooooxxoxxxxxooxooooxxxxooxxxo@@oxooooxoxxoxooxxoxooooooxoxxooxoxooooxooooooooxoxooooooooooxoo@@oxooxooxoxoxooxxxooxoooooxxxoxoooooooooooooooxxooooooxxoooxooo@@oxoxooxxxoxxoxxxxoxooooxoxxoxooxxxxxxxooooooxxxxxoxxoxoooxxxoo@@oxxxxoooxxoxoxxxxxooxxxxxooxooxoxxxxxxoxxooxxxxoxxoxxoooxooxoo@@oxxxxxooooxxxxoxoooxxxxxxxxooooxxxxxxxooooxxxxooxxxoooxxooxxoo@@oxxxoxxooxxxxxxxxxxxxxxxxxxooooxxoxxxxooooooooooxxxooxxxooxxoo@@oxoxoxooooxxxoxxoxxxxxxxxxxxooxooxoxxxooooooooooooooooooxooxoo@@oxxxoxoooxxxxxooxooxxxxxxxxxxxooooxoxxxxxoooxxxooooxooooooxooo@@oxoxoxooxxxxoxoooxoooxxxooxxxooooooxoxxxoxoooooxooxoooooxooxoo@@oxxoxooxxxxooxxxxoxoooooxxxxxoxoooooxoxoxoooooxxxooxoooxoooxoo@@oxxxooxoxxoooxoooxoxooxxxxxooxxxoooooooxoooxoooxxxooxooxxooxoo@@oxxoooxoxooxooxoxoxxxooxxxooooooxoooooxoooooxooooxxooxoxoooxoo@@oooxoxoxoxxooxoxoxoooxooxxxxxxxoxxoooxoooxoxoxoooxxooxooooooxo@@ooooooxxxoxxooxxxxxxooxoxxxxooxoxxooxoooxxoxxoxoooxoxooxooooxo@@oooooooooooooooooooooooxxxxooxooxxoxooooooooxxooooooxxxoxooxxo@@oooooooooooooxooxxxxxxxxxxxxxxxoooxoooooxxxxoooooooooxoxoxxooo@@ooxoxxxxoxxxxxxooxoooxoxxxxoxxxooxooooooooooooxooxooxoxoxxxoxo@@ooxoxxooooooxooxoxxxooxxxoxxxxoxoxooxooooooooxxoooxxoxoxxooxxo@@oxxooxxoxoooxoxoxoooooxxxoooxoxxoxooooooooooxxxoooxxxoxxxooxoo@@oxxoxoxxoxooxoooxxoooxoxxxoxoxooxxooooooooooxxxooxxxoxoxxoxxxo@@oxoxxxoxxoxoooxoxxxoxxxoxxxooxoooxooooooooxooxxooxooxooxxxxxoo@@oxxooooooxoxxoxoxxxxoxxxoxxxxoxooxoooxooooooooxooxxooxoxxxxxoo@@oxxxxoxxooxoxoxoxxxxxoxxxoxxoooxoxooxoxoxoooooxxxooxoxxooxxxoo@@oxxoxooxoooxooooxxxxxxoxxxoxxooooxoooooxoxooooxoxxooxoxxoooxoo@@ooxxooxoxoxoxoxxxxoxxxxooxooxxoooxxoooooxoxoooxoxxxooxoxxoxxxo@@ooxxxooxooooxxoxxxxxxxxooxxooxxooxxxoxoooxxxoooxxxxxoxxoxxoxxo@@ooxxxxooxoooxxxooxxxxxxxooxoooxxooooxxxoooxxxooooooooooooxoxxo@@ooxxxoxooxooxxxxooxxxxxxxxoxoooxxxooooxxoooxxxooxxxxxoooxoxxxo@@ooxooooxooxoxxxxoooxxxxxxxooxoooxoxooxxxoxooxxxooxxxxooooooxxo@@ooxxooxooxoxoxxxoooooxxxxxxooooooxxxxooooxxxxxxooooxxoooooooxo@@ooxoxooxxxxxxoxxooooooxxxxxxxoxxooxxoooooooxxxoxooooxooxooooxo@@ooxxooooooooxooxoooxxxxxxxxxxoooxxoxxxxxxxxxxxxoooooooxxoooxxo@@ooxooxoooxooxooooooooooooxxxxxooxxoooxxooooxxxoooooooooxoxoxxo@@ooxxxxxoxoxoxoxoooxoooooooxxxxxxooxooxoxxxxxxxxoooxoooooooxxxo@@ooxxoxoooooxoxoooxoooooooooooxxxoooxxooooxoxxxxxxoxxoooooooxxo@@ooxxxoxoooooxoooxoooooooooooxoxxxooxxxooxxoxxoooooooooooooxxxo@@oooxxxoxxxxxxooxoooooooooooxxxoxxxooxxoxxxxxxxoooooooxoooxxxoo@@ooxoxooxooooooxxoooooxxoooxxooooxxxoooxxxxxxxxooxxxooxxxxxxxoo@@oxxxoooooxoxoxxxxooooxoooxxxoooxooxxooxxxxxxoxxxxoxoooxxxxxxoo@@oxxoxooooxxxoxxxxxooooooxxoxooxoooxoxxooxxooxxxxoooxoooxxxxooo@@oxxxooooxxxoxooxxxxxoooxxxoxoxoooxooxxooxooxxxxxxoooxoooxxoooo@@ooxxxxxxxxxxoxxxxxxxxoxxooxxxoooxooxxoxxooxxxxxoxxoxxxoooooooo@@oooxxxxooxxoooooxxoxxxxoxxxxxxxxoxxxoxxxooxxxxxxooxxxxxxooooxo@@ooooxxxooxoxoooxxooxxxooooxxxoxoxxxoxxxoxxoxxxxxoxxxxooxooooxo@@ooooxxoxxxooxxxxoooxxoxooxoxoxoxxxoxxxoxxxxoxxoooxoooooxxooxoo@@ooooxoxxoxooxxxooooxxooxooxxxoxxxoxxxoxoxxxxoxooxooooooooxxoxo@@oooxoooooxoooxxoxoooxxooxoxxoxxxoxxxoxxxoooxxxoxxxxxxxxxxxxoxo@@ooxoxxoooxooooxxxxxooxxoxoxoxoxoxxxoxxxxxxxxxxxxoxxxxxxxxxxxoo@@oooxxxooxoooxxxxxxxxoxxxxxoxoooxoooxxxxxoxxxoxxooxxxxxxxooxoxo@@oooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo@@oooooooooooooooooooooooooooooooooooooooooooxoooooooooooooooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=1808 Ox=2036 EmpAdj=0   Player 1: 35457  Player 2: 41219@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@xxxxxooooooooooooooxxxooxoxoooooooooooooooooooooxxooooooxxxxxx@@xxoxoooxxxxxoxxxooooxxxoxoxoooooooxoxoxooooooooxooxxxxoooxxxox@@xoxoxoxoxxxoxoxoxooooxxoxooooooxoooooooooooxoooxoxxoooxoxoxoxx@@xxooxxoxoxoxxxoxoxoxoxxxooooooxoxxxoxoxxxxxoxxxoxooooxoooxxoox@@xoxoxxxoxoxxoxxoxoxooxxoxooxooxooxoxoooxxxoxxxxxoooooxooxxxoox@@xooxxxoxooxxxooxxxoxoxoxxxxxxoxoooxxxoooxxxxoxxxooooxooxxoooox@@xoxxxoxxoxoxxoxxxxxoooxxxxxxxxxooooxxxoooxxxxxxoxooxooxxooooox@@xoxxxxooxoxxoxxxxoooooooooxxxxxxooxxxxxoooxxxxxxoxooxxooooooox@@xoxxxxoxoxooxxoxxxxoooxxxooxxxoxoxxxxxxoxooxxxxoxoooxxxooxooox@@xoxxoxxoxoooxooxoxxooooxxxooxxxxxxxxoxxxxoxooxoxoooxxxoxoxooox@@xoxxxxxxoooooooxoxooxoxoxxxoxxoxxoxxooxxxxxxooxoooxxooxxoxooox@@xoxxxxxxxoooooooxooxxoxxxxxxoxxxooxoxxoxxxxxoooxoxxoxoxxooooox@@xoxoxxxxxooooooxooxoxoxxxxxxxoxxooxxxxxoxxxxooooxxoooxoxoooxox@@xooooxxxooooooxoooxxxxoxxxxxxxoxxoxoxxxooxxxooxoxxooxoxooooxox@@xooooxxxxooxoxoooooxxoxoxxxxoxoooooxxxoxxxxxxxxxoooxoooxooooox@@xoxoxxooxoxxxoooooxooooxoxxxxooooooooxxxxxoxxxxxxooxxoxoxoooox@@xooxxxooxxxxoooooxooooxxxxxxxxxxoooxxxxxxoxxxxxxxooxoxoxoxooox@@xooooxoxxxxoooooxoooxxxxxxxxooooooxoxxxxooxxxxxxxooxoxxooxooox@@xxooxxxxxxoooxoooooooxxxxxxxooooxoxooxxooxoxxxxxxooxoxxoxxooox@@xxxoxxxxxoooooooooooxxxxoxxooooxxoxxxoxoxxxxxxxxxooxoxxxxxooox@@xoxxoxxxoooooooxoxooxxxooxooooxxxooxoooooooooxxxxooxoxxxoxooox@@xoxoxoxxxxooooxxxooxoxoxxooooxxoxoxoxxxxxxxooxxxxxooxxxoxxooox@@xoxooxoxoxooooxxxxxoxooxooooxooxxoxxxxxoxooxoxxxxxoooxxooxoxox@@xoxoooxxxooooooxxxooooxooooxooxxoxoxxxxooooxoxooxxoxoxxoxooxxx@@xxxooxxxoooxxoxxxxxoxoooooxxooxooxoxxxoxooxooxxoxooxxoxxoxxxox@@xoxoxoxoooxooxxxxxoxoxxxxxxxooooooooooxoxoxxoxxxxxoxxxooxxxoxx@@xoxxxooooxxxxxxxooxooooxxxxoxoooooooxxoxxoooooxxxooxxoooxxoxxx@@xoxxoooooxxxxxxooxoooxoooooxooooooooxoxxxooooooxxooxxoxxxooxxx@@xoxoooooxxxxxxxoxxxxxoooooxoxoxxoooooooooxxoooooxooxooxxoxoxxx@@xoxooooooooooooxxxxooooooxoxxxooxoooooooooxxooxooxooxxxoxxxxox@@xoxxooooooooooxooxxxxoooooxxxxxoooooooxoooxxxooooooxxxxoxxxxxx@@xoxoxooxxxxoooooooooooooooooooxxoooooooxxoxxxooxxoooxoxoxxooox@@xoxoxxooxxxoxooxxoxxxoxoooxxoooxxooooooooooooooooxoxoxxxooxoxx@@xoxxoxxooxxooooxxxxxxoxooxoxxooooxooxoooxxoxxxxoxxoxxxxooxoxxx@@xoxxxxxxoxooooxoxoxxxoxoooooooooooooxxoxxoooxxxxoxoxooooxxoxox@@xoxxxxxooxoooooxoxxxxxxooxxxxxxooooxoxxxoooxxoxoxoooxxxxxxoxox@@xxoxxooxoxooxxxxxoxxxxxoooooxxxxoxooxoxxooxxxooooooooxxoxxxxox@@xxoooxoxoxoxoooooxoxxxxooooooxxxxooooxoxxooxxoooxoooxxxxxxxxox@@xxxxxxxoooxoxoooxxxxxxxooxooooxxxoxxxoooxxooxxooxoooxxoooxxoxx@@xxxxxoooooooxxoxoxxxxxooxxxooxxooxxxxoooooxooxxoxxoxoxxoxxooox@@xxxxxooooooxoxxxxoxxooxoxxxxxxxxxxxxoxxxxxoxoooxxxxxxxxxxoooox@@xxxxooooooxoxxxxxxooxxoxxxxxxooooxxoxxxoxoxxxooxxxxxooxxoooxxx@@xxoxoooxoooxoxoxooooxxxxxxxxooooxxoxxxxxoxxxxoooxoxoxxxxooxoxx@@xooxoooxxoooxxxxxxxxoxxxxxxooxxxooxoxxxoxxxxxxooxoxoxxxoxxooxx@@xooxoxooxxoxoxooxoooxooxxxoxoxxooooxoxoxoxxoxxooxoxxoxooooxoxx@@xoooxooxoxxxxooxoxxxoooxxoxooxoooxxoxoxoxoxxooxoooxxxoxxoxxoxx@@xxoooxxxxxxxxoxxxxxoooxxoxxoxoooxxoxoxoooxxxxoooxooxoxxxoxxoox@@xxxooooxxxxoxxxooxoooxxoxxxxoooxxoxoxoxooxxoxxoxoxoxxxxxxoooox@@xxoxooxxxxoxxxxoxoooxooooxxooooxxxoxoxoxxxoxxooxxoooxxoxxoooox@@xxxooxxxxoxxxxoxoooxooooxxooooxxxxxoxxxoxooxooxoxooooxxxoxxoox@@xxxoxoxxoxxxxoxoxxxxoooxxooooxoxxxxxoxoxoxoooxooxoxoxxxxxxxxox@@xxxxoxooxxxxoxoxxxxxxoxxooxxxxxxxoxxxoxxxoooxoooooxxxxxxxxxxox@@xxxxxooooxxoxxxxxxoxoxxooxoxoooxxooooxxxxooxooooooooxxxoooooox@@xxxxxooxoooxxxxxxxxoxxooxxxoxxooxxxoxxxxoxxoxoooooxxoxoxoxxxox@@xxoxooxoxooxxxxxxxoooooxoxxxoxooxxoxooxoxxxxoxoooxxoxxooooxxox@@xxxoooxxoxxoxxoxxooooxooxoxxoxoxxoxooxoxxoxxxoxooxoxxxoooooxox@@xxxoxxooxoxxoxoxoxooxxoooxoxxooxoxooxoxxoooxxxoxxoxxoxoxooooxo@@xxxxxooooxoxxooooxxooooxoooxoxxoxooooxxxxxxxxxxoooooxoxooxoooo@@xoxxxoooxoxoooooooxxooooxoooxxxxooxoooooooxxxxxooooxoooxoooxoo@@xxxxxxoxoxxxxxxooooooooooooooooooooooooooooooooooooooooooooooo@@xoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=2025 Ox=1819 EmpAdj=0   Player 1: 37276  Player 2: 43244@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@oxxooooxxxoooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooxoxooxx@@oxoxxoxoxoxoxxoooooooxoxoxoxoooxxxxxoxxxoxoooooxxoxoxoxooxooxxxx@@oxxxxxooxooooxxoxxxxxooooxooxoxxxxxxooooxoooooxxxxxxoxoxoxoooxxx@@oxoxxxxoxoxoooxxoxxxooooxooxxxoxxxxxxoxxxoxoxoooooxoxoooxxooooxx@@oxoxxoxxxxxoxxoxxoooxooxooooxxxooooxoxoxooxoxxoooooxoxoxoxooooxx@@oxoxxxoxxxxxoxxoxooxxxxoooxooxxxooooxoxooxoxxoxoooooxoxooxooxxxx@@oxooxxxoxxoooxooooooxxoooooxooxxxooooxoxxoxoxooxxooooxoooxoxxxxx@@oooooxxxoxoooooooooxoooxooooooooooooxoxxoxooxoooxxoooooooxxoxxox@@oxooooxxxoxoooooxoooooooxoooooxooooooxxoxoxoxoxooxxoooooooxxoxox@@oxxoooxxxxoxoooooxoooooxooooooxxxooxxxoxxooxxxxxoooxoooooooxooxx@@oxoxoooxoxxoxxxoxooooooxooooooxooxooxoxxooxoxoxxxoooxooooooooxxx@@oooxooooxoxooooxoxoooooxooooxoxoxxoxoxoxoxxxxxxxxxooxxoxoxxoxxxx@@oooxoooooxoxooooxoxooooooooxoooxxoooxoooxxxxxxxoooxxoxxoooooxxox@@oooxoxooooxoxoooxoooooooooxxooxxxxoxxooooooooooooxooooxxooooxxox@@oooxoxxoooooxxxxxxxoxxoooxxoxxoxxxxoxoooxoooxxoooooooooxxoooxxox@@ooooxooooooooxxxxxxxxxxxoxoooxxxxxxxxxoxoxoxxxxooxoxxoooxooooxox@@oooxoxooooxooxxxxxxxxxoxxoxxxxxxxxxxxooxxoooxxxxoxxoxooooxooooox@@oooxooxooxooooxxxxoxxxxxxxooooxxoxxxxooxxxoxxxxxxoxxooooxoxooxox@@oxoooooxooooxxooxxxoxooooooooxooxooxxooxxoxxooooxxooxoooxxoooxox@@ooxoooooxooxxxxooxxoxooooooooooxooooxoxoooooxooooxxooxxxxxxooxox@@oooxoxoooxxxxoxxoxoxxxxoxxxxxoxxooooxxxxxxoxxooxooxxoxxxxxxxooox@@ooxoxxxooxxxxoxxxoooxoxxooxxoxoxooooxooxxxxxxooxxooxxxxxxoooooox@@oooxoxxxoooxxxxxxooooxoxxoxxxxxxoooxooooooxxxxooxxooxxxxooxxooox@@ooooooxxxxoxxxoxxxxxooxxxxoxxoxxooxooxoooxxxxxxooxxooxxoooxoxoxx@@oooxxoxxxxxoxoxxxxxxxoxxxoxoxooxoxoooxxooxoxxxxxooxxoooooooxxoxx@@ooxoxxxxxxxxoxoxxoxooxxxxxxoooxoxooooxoxxooxxxxxoxoxoooooxxoxxox@@ooxxxxxxxxxxxooxxxxoooxxxooooooxoooxooxxxxoooxxxooxoooooxoxoxxox@@oooxxxxxxxxxxxoxxooooxoxoxoxoooooooxooxoxxxoooxxoxooooooxxooxxox@@oxxoxxxxxxxxxxoooooxooxxxoxxxxooxooxoooxxxxxoooxoxooooooooxoxxox@@oxxxooxxxxxoxoxoxoxooxoxxxxxxxoxxooxooxoxxxoooooooxooooooooxxxox@@oxxoooxxxooxoxoxxxxxxxxxxxooooxooxxxoooxooxooooxxxoooxoooooxxoox@@oxoooxoxxoooxoxxxxoooxoxxxxoooxooxoxxooxxoxoxoxoxoooxxooooxoxxox@@oxxoxoxooxoooxxxxoxoooxxxooooooxxooxxxoooxxxooxxoxoxxxoooooxxxox@@oxoxoxooooxoxxxooxoooooxxxxxxooxxooxxxxxxxxxxoxoxxxxxooooxooxoox@@oxxoxxoooooxxxxoooxoxooxoxxxooxxoooxxxoxoxxxoooxoxxoxooooooooxox@@oxoxooxoooxxxooxoooooxoxooxxxxxoooxxxxooxoxxxoxxxoxooxxoxoooooox@@oxxxoooooooxxxxxxxxxxxxxoxooxxoooxoxxxoxoxxxoxxxxxooooxxoxoooxox@@oxxxxooooooxxxoooxoooooxoooxxoooxoxoxoxooxxoxxxxxoooooxxxoooooox@@ooxxoxooooxooooooxxoxooxxoxxxooxoooxxxooxxoxxxxxoooxooxxxoooxxox@@oooxxxxooxooooxxoxxxoooxoxxxoxxooxxxxxoxxxxxxxxooooxxooxooooxxox@@oooxxxxoxxxooooooooooooxoxxoxxxoxxxxxxoooxxxxxooooooxxooooxxoxox@@ooxoxxxxxoxxoxxxoxxxoxxxxxxxxxoxoxxoxooooxxxxooooxxooooooxxxoxox@@ooxxooxxoooxxoxooxxooooxooxxxxxxxxxoxxoxxxoxoooooxxxooooxxxxoxox@@ooxxxooooxxoxxoxoxooxoooooxxxxxxxooxxxxxxxooxooxxoxxxooooxxxxxox@@ooxxxxooxxxxxxxooxxxoxxooooxxxoxxooxxxxxxooxoooooooxoooxoxoxxoox@@ooxxxxxooooxoooxooxxxxooooooxxxooxoxxxoxxxxoooooxooooxxoxxoxxxox@@ooxoxxxxxxxooxxoxxxoxxxxxooooxxoooxxxxxxxxxxoooooxooooxxoxoxxoox@@ooxooxxxoooxoxoxxxxxxxxoxxoooooooooxxooxxxxxxxxxooxooooxxxxoooox@@oooxooxxxooxxxxxxxxxoxxoxxxooooooooxooxoxoxxxxxxxoxooxooxxxooxxx@@ooxoxxoxxxxoxxoooooooxooxxxxoooooooooxxooxoxxxxoxxoooxxoxxxoxxox@@oooxoxxoxxxoooooxxoxooooxxxxxoooooooxxooooxoxxoxoxxoooxxoxoxxxxx@@oooxxoxxxxxxxoxoooxxooooooooooooooxooooooooxooxooxxooxoxxxxxxxox@@ooooxooxxxooxooxooxxoxxoxxooooooooxoooooxooxxoxxoxxoooxxxxxoxxxx@@oooxoxxoxxxxoxooxxxxoxxxxoooxxooooxxxxxxxxooxxoxooxoxooxxxxxxxxx@@ooxoxoxxooxxxoxooooxoxxxxooxxxxooxoooooooxoxxxxoxxooxxooxxxxxxxx@@ooxoxxoxoooxooxxoooxoxxxooxxxxoxxooooooooooxoxxxoxooxooxoxoxxxxx@@ooxooxxoxoooxxxxxoooxxxoooxxxooxooxoooooooooxxxxxoxoooxoxxooxxxx@@ooxooooxoxooxxxxxxooxxxooxxxoooooxooooooooooxxxxxxoooxoxoxoooxxx@@ooxxxxoxxxxxooooooooooooxoxooooooxxooxoooxoooxxxoxxoxxxooxooxoxx@@ooxxxoxxxxxooooxxoxooooxoxoxoooxxoxxxoxxxxooooxxxxxxoxooxxooooxx@@oooxoxoooooxxxxxoxooooooxooooooxoxxxoxxxxoxxxxxxxxxxxooxooooooxx@@ooxoxxxoooxxxxxooooooooooooooooxxxxxxxxxxxxxxxxxxxxxooxooxooxxxx@@ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=1998 Ox=2098 EmpAdj=0   Player 1: 39274  Player 2: 45342@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@oxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@@oxxoooooxxoooooooooooooxxxoooooooooooooooooooooooooooxxoxxoxoxxx@@oxoxoxxoxxxoxoooxxoxxooxxoxoooooxxxxooooooooooxoxxxxxoxxoxxxxxxx@@oxxoxxxoooxxoooxxxxxxoxxoxooooooooxooooxoooxoxoooxxxoxooxoxxxoxx@@oxxxoxxooxxxxoxooxoxoxooooooxoxooxooooxoxxxoooxxxoxoooooooxxooxx@@oxxxoxxoxoxxxxoxxxxoxooooooxoxoxxooooxoxxxooooxxxooxoxooxoxxooxx@@oxxooxoxxxoxxxxxxxoxoxxooxxoxoxxooooxoxxooxooxxxxxxoxxxxxoxoooxx@@oxxoooxxxxxoxxxxooxoxxoxoxoxoxxoooxxoxxxxooooxxxxoxoxxxxxoooxoxx@@oxxooxxxxxoooxxxoxooxoxxooxoxxoooxxoxxxxxxoooxxxooxxxxxxxooxxoxx@@oxxoxoxxooooxooxoxoxooxxoxooooooxxoxxoooooooooxxoooooooooxxxxxxx@@oxoxxxxxxxoxxoooooxoooooooxooooxxoxxxxxxxxxooooxxxxxoxxxxxxxooxx@@oxooxxxxxxxxoooooooxxoxooxooooxxoxxxxxxxxxxxxxoxoxooxxooxxxxooxx@@oxoxoxxxxxxoooxoooxooxooxxxxxxxoxxxxxxxxxxxxxoxxoooxxooxxoooooxx@@oxooxxxxxxxoxxoooxxxxooxoooxxxoxxxoxoooxxxxxoxoxooxxxxooxxooooxx@@oxxxxxoxxxoxxooxoxoxxxxxxxxxxoxxxxxoooxoooooxooxoxxxxxooxxxxooxx@@oxxxxooxxoxxoooxoxxxxxxxoxxxooxxxxooxxxxxooxooxxxxxxxxxxxxxxooxx@@oxxxoooxooxooooxooxxxxxxxooxoxoxxoooxxxxxoooxoxxxoooooooooooooxx@@oxxxooxxoxoooxxoooxxxxxxoooxxooooooxoxxxooooxxxxxxxxxooxxxoxooxx@@oxxoooxxxooooxxxoooxxxxxxoooooooooooxoxxooxxxxxxxxoxxxxxxxxxxoxx@@oxxoooxxoooxooxxxoxxooxxxxooxooxxxoxxooooooooxxxoxoxxxoooxoxxoxx@@ooxoxoooooxxxoxooxoxoooxxxxoooooxoxxxoooxooxxoxxxoxxoxxooxoxooxx@@oxooxoooxoxxxxxxoxxoxooxxxxxooxxoxoxxooxoooxxoxooxxxooxxxxoxxxxx@@oxxoxooxooooxxxxoxxxoxooxxxxxooxxxxxxoooxxxxooxooxxxoooxxxooxoxx@@ooxoxoooooxxxxxoxxxxxooooxxxxxooxxxxoooxoxxxoooxxoxxoxxooxoxxoxx@@oxoxooxxxxxxxxxooxxoxooxooxoxxxooxxoxoxxxoxoxooxxxoxoxoooxoxxoxx@@oooxoxxxxxxxxoooxxooxoooxoxxxxxxoooxoxoxxxoxoxooxxxoxooooxxoxoxx@@ooooxxxoxoxxoooxooooxxoxoxoxxxxoxoooxxoooxxoxoxooxoxoooooxxxooxx@@xoooooxxxxxooxxoooooxoxoxooxxxxxxxoxxoxoooxxoxoxoxxoxoooooxxxoxx@@xxooxxoxxoooooooooooxxxxoooxxxxxooxxoxoxooxxoxooxxoooooooooxxoxx@@xxxoooooxoooxxooooooxxxxoxooxxxooooxxoxoxoxoooxxxoxxxxxoooxoxoxx@@xooxooxxoxoooxxoooooxxxxxoxooxooxooxoxooxoxxoxoooxxoxooooxxoooxx@@xoxxxooxxoxoxoxooooxxoxxxxoxoooooxoxxoxoxoxxooooxxoxoooxxxxoooxx@@xoxxxxxoxxxxoxoxoooxxxoxxxxoxoxooooxoxoooooooooxoxxooooxxxxoooxx@@xooxxoxooxxoxoooxxoxxxooxxxxoxoxooxoooooooooooxoxxoooooooxxoxoxx@@xooxxoxxooxooxoooxoxxoxxoxxxxoooxxoxoxoooooooooxxxxoxoxoxxxxooxx@@xoxoxxxxoooxoxxoooxxoxxoxoxxxxooxooxxoxoxooooooxooxxoooxxxxoxoxx@@xooxxxxxooooxxoxoxoxxxoxxooxxxxxoooxoxxoxxooooxooooxxooooxxxxoxx@@xooxooxxoooooxooxxoxxoxxxoxxxxxxooooxxoooxxooxoxoooxxxooxxxxxoxx@@xooooooxooxooooxxxoxoxxxxxoxxxxxxooxxoooooxxxoxoxoooxxxooxoxxoxx@@xooooooxoxooxxooxxooxxxxxxxoxxxxxxoxxooooxoxoooxoxoxooxxoxxxxoxx@@xooooooooooxoxoooxoooxoxxoxxoxxxxxxxooooxoxoooooxxxxoooxxxooxoxx@@xooxoooooxooxooooxxoxoxooxxxxoxxxxxxxooxoxoooooxxxoxxoooxxooxoxx@@xoxooooxoxoooxoooxxooxxooxxxxxxxxoxxoxxoxooxooxoxoxxoooooxxoxoxx@@xoxooxoxoxxooxxooxxxxoxoxoooooooxxooxxoxoooxoxoxooxoxooooxxoxoox@@xoxoooxxoxoxoooxoooooxxxoooxxxxoooooxoooxoxoooxxoxoooxxoxxxxooox@@xoxooooxoooooxooxxxxxxxxxxxxxxxoooxoooxooxooooooxooooxooxxxxooox@@xoxoxooooooooxxxxxxxoxxxooooooxooxoooxoxooxoooxxoooxooxooooxxoox@@xoxoxxoooooooxooxoxoxxxxxooxooxoxxxoxooooooxooxxooxxooxxoxoxxoox@@xoooxoxoooxooooxoxoxoxxooxxoxoxxxxoxxxxxoxoxxoxoxxoxoxxxxoooxxox@@xoooxxxxooooooxoxooooxxxooxxoxooooxoooxoooxooxxooxxxxxxxoxooooox@@xooooooooooooxoxooooooxxxoooxoxooxxxxoxxoxxxxxxoxxxxxoooxoxoxoox@@xoooxxxxxxooxoxooxoooooxxxoxxxoxxooxxxooxxxxxxxooxxxxxxxoxxoxoox@@xooxxxxxxoxxooooxxoooxxoxxxxooxoxxooxxoooxxxxoxoxoxoooooxooxooox@@xoxxxoxoooxoxoooxxoxoooxoxxxoooxoxxooxxooxxxxxoooxxoxxxxoooooxox@@xoxxxxoooxoxxooxxoxxxoooooooooooxoxxooxxoxxoxxoooxxoxxxoooooxxox@@xoxoooooxoooooxxoxxxxooxxooooooxoooxxoxxxxxooxooxoooooooxxoxxxox@@xoooxooxoooooxxoxxoxxooxoooooxooxoooxxxxxxoxxoooxooooxoxoxxxxxox@@xooxoxxoxxxxxxoxxxxoxoxooooooxxooxoooxxxxxoooooooooxooxooxxxxxoo@@xoxoxxoooooxxoooxxxoxoooxoooxxxxooxooooxoooooooooooooxooxxxxxxoo@@xooxxooxooooxxxoxxxxoooxxooxxxoxxxoxxxoooooxoxoooooooooxxxxxxoxo@@xoxxoooxxooooxxxxxxxoooxooxxxxxoooooxooooxxoxoxoxooooxxxxoxxxxoo@@xoxooxxoxxooooxxxxxxxxoooxooxoxooxoooxoooooooooooooooooxxxxxxooo@@xxoooooooxxooooxxxoooooooooooxxxxxxxxoooooooooxoooooooxxxxxxxooo@@xooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Xs=2042 Ox=2054 EmpAdj=0   Player 1: 41328  Player 2: 47384totals... #1:   -6  -0.0938  -0.0938 #2:    6   0.0938   0.0938 #1:    0   0.0000  -0.0938 #2:    0  -0.0000   0.0938 #1:   22   0.2200   0.1262 #2:  -22  -0.2200  -0.1262 #1:   -8  -0.0800   0.0463 #2:    8   0.0800  -0.0463 #1:    0   0.0000   0.0463 #2:    0  -0.0000  -0.0463 #1:  -16  -0.1111  -0.0649 #2:   16   0.1111   0.0649 #1:  -40  -0.2041  -0.2689 #2:   40   0.2041   0.2689 #1:  -86  -0.4388  -0.7077 #2:   86   0.4388   0.7077 #1:   29   0.1133  -0.5944 #2:  -29  -0.1133   0.5944 #1:  -29  -0.1133  -0.7077 #2:   29   0.1133   0.7077 #1:   29   0.0895  -0.6182 #2:  -29  -0.0895   0.6182 #1:  -29  -0.0895  -0.7077 #2:   29   0.0895   0.7077 #1:   29   0.0725  -0.6352 #2:  -29  -0.0725   0.6352 #1:  -29  -0.0725  -0.7077 #2:   29   0.0725   0.7077 #1:   29   0.0599  -0.6478 #2:  -29  -0.0599   0.6478 #1:  -29  -0.0599  -0.7077 #2:   29   0.0599   0.7077 #1:   38   0.0660  -0.6417 #2:  -38  -0.0660   0.6417 #1: -236  -0.4097  -1.0515 #2:  236   0.4097   1.0515 #1:  -66  -0.0976  -1.1491 #2:   66   0.0976   1.1491 #1:    2   0.0030  -1.1461 #2:   -2  -0.0030   1.1461 #1: -126  -0.1607  -1.3069 #2:  126   0.1607   1.3069 #1: -122  -0.1556  -1.4625 #2:  122   0.1556   1.4625 #1:  -44  -0.0489  -1.5114 #2:   44   0.0489   1.5114 #1:   60   0.0667  -1.4447 #2:  -60  -0.0667   1.4447 #1:  -56  -0.0547  -1.4994 #2:   56   0.0547   1.4994 #1: -172  -0.1680  -1.6673 #2:  172   0.1680   1.6673 #1: -324  -0.2803  -1.9476 #2:  324   0.2803   1.9476 #1: -276  -0.2388  -2.1864 #2:  276   0.2388   2.1864 #1:  -24  -0.0185  -2.2049 #2:   24   0.0185   2.2049 #1: -232  -0.1790  -2.3839 #2:  232   0.1790   2.3839 #1: -342  -0.2368  -2.6208 #2:  342   0.2368   2.6208 #1:   90   0.0623  -2.5584 #2:  -90  -0.0623   2.5584 #1: -134  -0.0838  -2.6422 #2:  134   0.0838   2.6422 #1: -178  -0.1112  -2.7534 #2:  178   0.1112   2.7534 #1: -264  -0.1497  -2.9031 #2:  264   0.1497   2.9031 #1: -106  -0.0601  -2.9632 #2:  106   0.0601   2.9632 #1:    6   0.0031  -2.9601 #2:   -6  -0.0031   2.9601 #1: -234  -0.1209  -3.0809 #2:  234   0.1209   3.0809 #1: -166  -0.0784  -3.1594 #2:  166   0.0784   3.1594 #1:  -48  -0.0227  -3.1821 #2:   48   0.0227   3.1821 #1:   40   0.0174  -3.1647 #2:  -40  -0.0174   3.1647 #1: -130  -0.0564  -3.2211 #2:  130   0.0564   3.2211 #1:  -98  -0.0392  -3.2603 #2:   98   0.0392   3.2603 #1: -138  -0.0552  -3.3155 #2:  138   0.0552   3.3155 #1:  -84  -0.0311  -3.3466 #2:   84   0.0311   3.3466 #1:  272   0.1006  -3.2460 #2: -272  -0.1006   3.2460 #1: -202  -0.0693  -3.3153 #2:  202   0.0693   3.3153 #1: -270  -0.0926  -3.4079 #2:  270   0.0926   3.4079 #1: -484  -0.1543  -3.5622 #2:  484   0.1543   3.5622 #1: -244  -0.0778  -3.6400 #2:  244   0.0778   3.6400 #1: -494  -0.1468  -3.7869 #2:  494   0.1468   3.7869 #1:   44   0.0131  -3.7738 #2:  -44  -0.0131   3.7738 #1: -328  -0.0911  -3.8649 #2:  328   0.0911   3.8649 #1: -330  -0.0917  -3.9566 #2:  330   0.0917   3.9566 #1: -228  -0.0593  -4.0159 #2:  228   0.0593   4.0159 #1: -206  -0.0536  -4.0695 #2:  206   0.0536   4.0695 #1: -100  -0.0244  -4.0939 #2:  100   0.0244   4.0939 #1:   12   0.0029  -4.0910 #2:  -12  -0.0029   4.0910
+@xxooxxoxxxooooxoooxxxxoxxxxxxxoxxxoxxoooooxoxoxoxxooxxxoox@
+@xxxoxoxxxooooooxoxxxxxxoxoxxxxxxxoxooooooooxoxxxoxxooooxox@
+@xxoxoxxxoooxxoooxxxooooooxooxxxxooxoooooooooxxxxxoxxoxxxox@
+@xxooxxxooooxxxoxxxxoooxxxooooxxoooooooooooxoxxxxxooooooxox@
+@xxooxxxxooooxoxxxoooooxxxooxxxxoooooooooooooooooooxxxoxoox@
+@xxoxoxxoxooooxxxooxxxoooxoxxxxoxooooooooxoxoooxxxxxxoooxox@
+@xxooxxoxoxooxoxooxoxxxoooxoxooxxoooooooooxoxoooooxxoxxxxox@
+@xxoxooxxxxoxxxoooxxoxxoooxxooxxoxoxooooxooxoooooxoooxoxxox@
+@xxxooxxxxxxoooooooxxooxxoxxooxoooxoxxoxxxxoooooxoooxoxxoox@
+@xxooxxxxxxxxxxxoxxxxooxxxooxooxoooxooxxxxxooooxoooxoxxooox@
+@xxooxxxxxxxxoooxooooxxxxoooooxooooxxxxxxxxxooxoxooxoxxooox@
+@xoooxxxxoooxxoooxoooxxxxoooooxxxooooxxxxxxxxxoxoxoxoooxoox@
+@xxoxoooooooxoooooxoxxxoxoooooxxxxooooooooooxxxoxoxxoooxxox@
+@xoxxxxxxoxxxoxxxxxxxxooxooooxxxxxxoooxxxxxxxxxxxxoxooxoxoo@
+@xxoooooxoxxoxxoxoxxxoooxoooxxxxxxxxxxxxxxxxxxxxxxxoxxxooox@
+@xoxxxoooxxoxxxxoxxxxooxxxoxxxxxooxxoxxooxooxxxxxxxxoxoooox@
+@ooooxxxooxoxxxxxxoxoxxooxxxxxxxxoxxxxxxxxxxoxxxxxxoxoxooxx@
+@xoxooxxxooxoxxxxoxooxxxxooxxxxxxxxxxxxxxoxoxoxxxxoxxxooxxx@
+@xxoooxxxoxoxoxxxxxxxooooxooxxxxxxxxxxxxxxooxooxxoxxxxooxxx@
+@xxxoxoxoxooooooooooxoooxooooooooooxoxoooxxoxoxooxoxoooxoxx@
+@xxxxoxoxxoxoooooooooxoxoxxxxxxxooooxoooxoxxoooxxoooooxxxxx@
+@xxooxoooooooooxxxxxxxxxxxxxxxxxxxxxooooooooooxxxxxxxxxxxxx@
+@xoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=1660 Ox=1704 EmpAdj=0  
+ Player 1: 30378  Player 2: 35254
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo@
+@xxxxooooooooooxxxxxooooooxoooxxxoxoooooooooooooooooooooooooo@
+@ooxxxoxxxxxxxxxoooxxoooxxxxxxoooxoooooxxxoxoxooxoooooooooooo@
+@ooxxxxxoooxxxxxxxxxxxoxoxxxxxoxxxxxooxoxoxxooxooxooooooooooo@
+@ooooxxoooxxxxxooooooxoxooxoooxoxxxoooxxooxxoxoxxoxoooooxoooo@
+@oooxooooooxoooooxxoooxxoxoxoooxoxooxxxoxxxxxxxxxxoxooooxxooo@
+@ooxxoooxxxoooxoxxxxxxxxxoxoooooxooooxooxxoxxxxoxxoxxoooxxooo@
+@oxxoooxxxoooxxxxxxxooxxxxoxoxoxoooxxooxooxoxoxxooxooxooxxooo@
+@oxoooxoxoxxxxxxxooooxoxoxxoxxxooooxooxooxooxooxoooxooxooxxoo@
+@oooooxxoxxxxxxxooxoxoooxoxxxxxxxxxxxxxxxoooooooooooooooooxoo@
+@oooxoooooxoxxxxxxoooooooxooxxxooooxoooxxoooxoxxooooooxxxxxoo@
+@ooxxooooxoxxoooxoooooooooxxoxoxxxxxooxoooooxooxxxxxxxxoxoxoo@
+@oxxxoooxxooxoxxxxoxooooooxooxxoxxxooxooooxooooooxoooooxoxxoo@
+@oxxxooxxxxoooxxoxxxxoooxxoooxooooxxxooooxooooooooxxxoxxxxxoo@
+@oxxxoxxxxoxooxxoxoxoxoxxoxxoxoooooxxooooxxoooooxoxxooxxoxxox@
+@oxxooxoxoxxxooxxxxxxoxxxoxxxxoooooooxoxxoxooooooxooxxxoxoooo@
+@oxoxoooxxooxxoxxxxxoxxxxooxoxoooooooxxxxooxooooxxxooxoxoxxoo@
+@oxoxoxxxxooxxooxxxxoxxxxoxxxooxooxoxoxooxooxooxxooxooxooxxoo@
+@oxoooxxxxooooxxoxxxxoxxxoxxooxxxooxoxooxooooxxoxoooxooxxxxoo@
+@oxoxooxoxooooxxoxxxxxoxooxooxoxoxxoxooooxoooxxxoooooooxxxxoo@
+@oxoxoooxooooxoxxoxxxxxooxooxoxxooooooooooxoxxxxxoooooxoxxooo@
+@ooooxoxooooxoxooxxxxxxxxooxxxxxoooooxoooooxxxxxxxoooxxxoxxoo@
+@oooooxxoooooxooxxxxxxxxooooooxxxxxoxooooxoxxxxxoxxoxxxoooxoo@
+@ooxoxxxxxoooooooooooooxoxoxoooxoooxooooxxxoxxxxxxxxxxxxxxxoo@
+@oooxxoxoooooooxoxxxxxooxoxoxoooxxxooooxxxxxoooxxooxxxxooxxoo@
+@ooxxxxoxoooooooxoxxxxooxxxxoxoooxooooooxxxxxoooooxxxooxxxxoo@
+@oooxxxxoooooooooxoxxxxxoxxxxooooxxooxooxxxoxxoxxxxxxoxxxxxoo@
+@ooxoxxoxoooooxoooxoxxxxoooxxxoxoooxxoooxxoxoxoooooxoxxxxoxoo@
+@ooxxxxxoxooxooooooxoxxxxxooooxxoxooxooxoooooooxoxoooxoxoxxoo@
+@ooxxxxxxoxxxxooxoooxoxxxxxooxoxxxoooxxooooooxoxxoooxxxooxxoo@
+@ooxoxxooxxxxxxooxoooxoxxxxxoxooxxoooxxxoooooxoxxxoooxoooxxoo@
+@oxxooxxoxxxxxooooooooooxxxxxoxooxooxoxxxooooxoxoxxooooooxxoo@
+@ooxoooxxxxxxoxxxooooooxoxxxxooxoxoxxxoxxxxxoxooxxoxoooooxxoo@
+@oxxoooxxxxxooxxxxxooooooxxxxxoooxxooxooxxxxoxoxxxooxoooxxxoo@
+@oxxooxxxoxoxxoxxxxooooooooxxxxooxxooooooxxxxooxxooxoxoooxxoo@
+@oxxooxxxxxoxxxoxxxoooxoooxoxxxxoxxxxxooxoxxxxoxoxxxooxooxxoo@
+@oxxoooxxxxoxxxxoxxooxxxoooooxxxxooooxxooooxxxxooxxxoooxoxxoo@
+@oxxoxooxoxooxxxxoxooxxxxxooooxxxxxoooxxxxooxxxoxooxxoxoxoxoo@
+@oxxooxooxxxoxxxxxoooxxxxxooooooooooooooxooooxxxoxooxxoxoxxoo@
+@oxooooooxxooxxxxxxoooxxxxxoooooxxxxoooxxxxxooxxxxoooxxoxoxoo@
+@oxxoooooxxxxxxxxxxooooxxxxxxoxxoxxxxxxoxxoxxxxxxxooxxxxoxooo@
+@oxxooooxxxxxooxxxxoooxxxxxxxooxxxxxxxoxxoooooooooxxxxxxxoxoo@
+@oxxoxoxoxxxxoooxxxooxxxxxxxxoxoxxxxxooxxooxoxxoxxxxxooxxoooo@
+@oxxooooxxxxxxooxxxxxxxxooxxxooxoxxxoxoxxxoxxxoxooxxoooxxxooo@
+@oxxooooooooooooxoxxxxxxoooxoooxoxxoxoxxxooxooxoxxooooxoxoxoo@
+@oxoooooxxxooxxooooxxxxxxoxoooooxxoxoxxxoooxoooxxxooxxoxoxooo@
+@oxooxoxoxxxxoxoooooxxxooxooooxxxoooxxxooooxoooxxoxoxoooooooo@
+@oxoxxoxxoxxxooooooooxxxxoooooxxooooxxoooxoxooxooxxxoooxxxooo@
+@ooxxxoxxxoxxxxxxxxxxxxxoooooxooxooxxooxxoxooxxoxxxxxoxxxoooo@
+@oxxoxoxxxxoxxooooxoooxooooxxooxoxooooooooooooooxxxxoxxxooxoo@
+@oxxoxoxxxxooxxoxooooxooooxxooxoooxoooooxoxxxxxoxxxoxxxooooxo@
+@oxxxooxxxooooxxoxoxxooooxxxoxoooooxoooooxxxxxxxoooxxxooooxoo@
+@oxxxoxxoooooooxoooooooooxooxooooxxoxoooooxxxxxxxoxxxoooooxoo@
+@oxxoxxxooxoxxxoxxxoooooxooxoxoxxooooxoooooxxxxoxxoxoxooooooo@
+@oxoxxxxoxoxxxxxoxoooooxooxoooxxxoooooxooxooxxoxoxxoooooooooo@
+@oxoxxxoooooooooooooxoxooxoooooxooooxooxxxxxoxooooxxoxoxooxoo@
+@oxxxoxoooooooooooxxxxxxxxooooxooooxxxxoooooxooxoooxxooxooxoo@
+@oxoxoxoooooooooooooxxxooooxoxoxoooxxxxooxxxxxooxoxoxxxxooxoo@
+@oxxxxoxxxxxxxxxxxxxxxxxxxxoxoooooooooooooooooxxoxxxxxxxxoooo@
+@oxxxoooooooooooooooooooooooooooooooooooooooooooooooooooooooo@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=1636 Ox=1964 EmpAdj=0  
+ Player 1: 32014  Player 2: 37218
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@xxxxxxxxxxxxxxxxxxxxxoooooooooooxoxxxxooooooxxxooooooxxxxxxx@
+@xxxoxxxoooxxoooxxxxxxxxxxoxoooooooxxxooxxxoxxxxxxxooxoooooox@
+@xoxxoooooooooooxooxxxxxxxxxxxxxoooooooooxxooooooxooxoooxxoox@
+@xoxoxoooooooooxxoooxxxxxxxxxxoxxoxxxoxoooxxxxxxxxxxxooxoxoxx@
+@xooxoxxxxoxooxxxxxxxxoxxxxoooxooxoooxoxoxooxxxxxxxoooxxxooxx@
+@xoxoooxxoxooxoxoxxxoxoxxoxxxxooxxxxooooxoxoxxxooxoooxxxoooxx@
+@xooxxxxoxooxoxoooxxxxxoxxxxxxxxooxxxooooxxoxxxxooooxxxooooox@
+@xooxxooxoxxoooooooooooooooxxxxoooooooxoooxooxxxoooxxxooooxox@
+@xoooooxoxxxxxooxooxxoooooxoxoxoooxooxxxooooxxxxxxxxxooxxooxx@
+@xooooxooxxoxoxxooxxxoxoxxoxxxoxxxoxxxxxxoxoxxxxoxxxooxxxooxx@
+@xoxooooxxxxoxxxoxxxxxxxxooxxooooxxoxxxxxxoxxxooxoxxoxxxxooxx@
+@xooxooxxxxoxxxoxoxxxoxxxooxoxooooxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@xoxxxxxoxoxxooxxxxxoxoxxooxooxoxxxoxoxoxxoxxxoxxooxxxxoxooxx@
+@xooxxoxxoxxooooxxxxxooxxooxooooooxxxxooxoxoxxxxxxxxxxxxxooxx@
+@xooxxoxoxxooxxooxxxoxoxoxoxoooxxoxxxxoxoxxoxooxxxxxxxxoxooxx@
+@xoxooxoxxoxxxxoxxxoxxoxooxxxooxxxoxxoxoxxoxoooxxxxxxxoxoooxx@
+@xoooxoxxoxxxxoxxxxxoooxxooxxxooxxxooxooxxooxoooxxxxxxxxxoxxx@
+@xoxooxxxxoxooxxxoooooooxxoxxxoxxoxxxoooxoxooxoooxxxxxxoxoxxx@
+@xoxoxxxxooxoxxxoooooxxooooxoxxoxoxxoooooxooxoxoooxxxxoxxoxxx@
+@xooxxxxxxxxxxxxxxxxxxxxxxxooxxoxoxoxxooxooxxxoxoooxxxxoxooxx@
+@xooooooooxoxooxxoooxoxxxxooxoxxxxxoxoxxooxxxxxxxoooxxxxooxxx@
+@xooxoxooxoxxxoxxxxooxoxxoxxooxoxoxoooxoooxoxxxoxxooxxxxxxxxx@
+@xoxoxxxxxxxxxooxoxxooxxoxxxoxxoxxxooxoooooxxxoooxxooxxxxxxxx@
+@xoxxoxooxoxxxoxxxoxooooxxxxxooxxxoxoooooooxxooxxxxxoooxxoxxx@
+@xoxxxoxooxoxoxxxoxoxxooxxxxooooooxoooooooxxoooooooxxxoxoooxx@
+@xxxxxxooooooooxxxoxoxxooooooxooooxoooooooxooooooooxxxxooooxx@
+@xooxxoxoooooxxoxxxoxoxoooooxoooooxoxxooxooxoxoooooxxxxxoooxx@
+@xoooxxxxoooooxxoxxxoxoxoooooooxooxoxxoxxooooooxxoooxxxxxoxxx@
+@xoooxxxxxoooooxooxxxxooxooooooxxoxoxoxxoxxooooooooooxxoxxxxx@
+@xooooxxxxxooooooooxxxxooxooooooxoxooxxxooooooxxxxxxooooooxxx@
+@xoooxooxxxxooooooooxxxxxoxoooxxoxxoxxooxxxooxoxxxxxooooxxoxx@
+@xooooxooxoxxoooooxooxxxxxxxoxoxxoxxoxooooooxoooxxoooooxxooxx@
+@xoooxoxxooxxxooooxoooxxxxxxxoxooxxxoxoxxxxxoxxoxoooxxxxoxoxx@
+@xooooxxxxoxxxooxoxoxooxoooxoxoxoxxxxoxxxxxooxxxoxoxxxxxoooxx@
+@xoxoxxxoxoxxoxxoxoxxxxooxxxxxxoxxxxoxxxxxxxxoxoooxoxxooxooxx@
+@xoxoxoxxoxxooxxxoxxxxxxoxxxxxxxoxxoxooxxooooooxoxxxxooxxooxx@
+@xoxooxxooxoooxxoxxxxxxxxoxoxxxxxxooxxoxoooxooooxxxxxooxoxoxx@
+@xoxoxxoooxxoooooxxxxxoooxoxooxxxoooxxxooxxxoooxxxxxxxooooxxx@
+@xoxxxooooxxoxooxxxxxxooxxxxoooxooooxxxxoxxxooxxoxxxxxoxoxoxx@
+@xooxxooooxxoooxxxxxoooooxxxooxoxoooooxxxxxxoxxoxxxxxooxoxxxx@
+@xooxxxxxoxoooxxxxxoooooooxxxxoxooooxoxxxxxoxxoxxxxxoxooxxxxx@
+@xooxoxxxxoooxxxoooxxooxoxxxoxxooxxoxoxoxxxxxoxxxxxoxxoxoxxxx@
+@xoooooooxxooxxooooxoxxoxoxxoxxoxxxxxxoooxxxoxxxxxoxxxooxooxx@
+@xooxoooooxxxxooooooxoxxoxxxxooxoooxooxoooxxxxxxxoxxxooxoxoxx@
+@xoxoooooooxxxooxxxxxxoxooxxxxoxxoooxoxooooxxxxxoxoxoxooooxxx@
+@xoxoooooxooxxoooooooxxoxoxxoxxxxxoooxooooooxxooxxxooooxxxoxx@
+@xoxooxxooxxxoooooooooxxoxoxxxxxooxoooxooooxoxooxxoooooxxoxxx@
+@xoxxoxoooxoooooxooooooxxoxooxxxoxoxoooxooxoooxxooxooooxoxoxx@
+@xoxoooooxoooooxxxooooooxxoxooxoxoxxxoooxxoxoooxoooxoooooooxx@
+@xoxxoooxoooooxxxxxooooooxxoxooxooxxxxooxoxoxoooooooxooxxooxx@
+@xoxxooxooooxxxxxxxxooooooxxxooxoooxxxxxoxoxoxoxoxooxoxxoooox@
+@xoxxxxoxxooooooooooooooooxxoxooooooxxxoxoxxooxoxoxxooxxoxoxo@
+@xoxxxxxooxoxoxxxoooxxxxxxxxxxxxoxoxxxoxoxxxoxoxoxxxxoxoxxoxx@
+@xooxxxxoooxxoxxoooxoxxoooooooooxxxoxoxoxxoxxoooxxxxxxxxxxoxx@
+@xoooxxxxoooxoxooxxoxooxoooooooxoxoxoxoxxoxxxxoxxxxxxxxxxxoxx@
+@xooxooxxooxooooooooooxxxxxxxoxoxxooxoxxxooxxxxxxxxxxxxxoxoxx@
+@xoxxoxoxooooooooooooooooooooxoooxoxoooxxxooxooooooxxooxxooxx@
+@xxxxxooooxxoooxooooooooooooxooooxooooooooooooooooooooxxxxoxx@
+@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=1965 Ox=1635 EmpAdj=0  
+ Player 1: 33649  Player 2: 39183
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@oooooooooooooooooooooooooooxoooooooooooooooooooooooooooooooooo@
+@oxxxxxxxoxoxxxxxoooxoxxxxxxxxxxxoxxoooooxxxxxxxxxxxxxxxxxxoooo@
+@oxxxoxxoooxxooxxxxxxxxxoxxxoxxxoxxxxoxooxxooxxxoxxxoxxxxxxxooo@
+@ooxxxxoxoxoxoooooooooooxoxoxooxooxxxooxxoooooooxxxxxooxxoooxoo@
+@oooxxxxoxooxoxxxxxxoxxxooxxxxxoxooxxoooxxxoooxxxxxxoooooooooxo@
+@ooooxxoxxooxoooxoxoxxxxooxoxxxxooxoxooooxxxooooxxxxxoxxoooxxoo@
+@oooooxxoxooxxoxoooooxxoxxoxxxxoxxooxxoooxxxxooxxxooxoxoooxxxoo@
+@oxooxoxxoxxxoxooooxxxxxoxxoxxooxoooooxooxxxxxooxoooxoxooxxoxxo@
+@oxoooxoxxoxxxoooooxxxxxxxxxoxoxooxoooxxxxxxxxxoooxoxooxxxxoxxo@
+@oxooooooxxoxxxxoxxxxxxxxoxxxoxooxoooxooxoxxoxxooxoooooooxxoxoo@
+@oxooxxooxoxxxxoxxxxxxxxxxxooxooxoooooxxoxxxxxooxooooxxxxooxxxo@
+@oxooooxoxxoxooxxoxooooooxoxxooxoxooooxooooooooxoxooooooooooxoo@
+@oxooxooxoxoxooxxxooxoooooxxxoxoooooooooooooooxxooooooxxoooxooo@
+@oxoxooxxxoxxoxxxxoxooooxoxxoxooxxxxxxxooooooxxxxxoxxoxoooxxxoo@
+@oxxxxoooxxoxoxxxxxooxxxxxooxooxoxxxxxxoxxooxxxxoxxoxxoooxooxoo@
+@oxxxxxooooxxxxoxoooxxxxxxxxooooxxxxxxxooooxxxxooxxxoooxxooxxoo@
+@oxxxoxxooxxxxxxxxxxxxxxxxxxooooxxoxxxxooooooooooxxxooxxxooxxoo@
+@oxoxoxooooxxxoxxoxxxxxxxxxxxooxooxoxxxooooooooooooooooooxooxoo@
+@oxxxoxoooxxxxxooxooxxxxxxxxxxxooooxoxxxxxoooxxxooooxooooooxooo@
+@oxoxoxooxxxxoxoooxoooxxxooxxxooooooxoxxxoxoooooxooxoooooxooxoo@
+@oxxoxooxxxxooxxxxoxoooooxxxxxoxoooooxoxoxoooooxxxooxoooxoooxoo@
+@oxxxooxoxxoooxoooxoxooxxxxxooxxxoooooooxoooxoooxxxooxooxxooxoo@
+@oxxoooxoxooxooxoxoxxxooxxxooooooxoooooxoooooxooooxxooxoxoooxoo@
+@oooxoxoxoxxooxoxoxoooxooxxxxxxxoxxoooxoooxoxoxoooxxooxooooooxo@
+@ooooooxxxoxxooxxxxxxooxoxxxxooxoxxooxoooxxoxxoxoooxoxooxooooxo@
+@oooooooooooooooooooooooxxxxooxooxxoxooooooooxxooooooxxxoxooxxo@
+@oooooooooooooxooxxxxxxxxxxxxxxxoooxoooooxxxxoooooooooxoxoxxooo@
+@ooxoxxxxoxxxxxxooxoooxoxxxxoxxxooxooooooooooooxooxooxoxoxxxoxo@
+@ooxoxxooooooxooxoxxxooxxxoxxxxoxoxooxooooooooxxoooxxoxoxxooxxo@
+@oxxooxxoxoooxoxoxoooooxxxoooxoxxoxooooooooooxxxoooxxxoxxxooxoo@
+@oxxoxoxxoxooxoooxxoooxoxxxoxoxooxxooooooooooxxxooxxxoxoxxoxxxo@
+@oxoxxxoxxoxoooxoxxxoxxxoxxxooxoooxooooooooxooxxooxooxooxxxxxoo@
+@oxxooooooxoxxoxoxxxxoxxxoxxxxoxooxoooxooooooooxooxxooxoxxxxxoo@
+@oxxxxoxxooxoxoxoxxxxxoxxxoxxoooxoxooxoxoxoooooxxxooxoxxooxxxoo@
+@oxxoxooxoooxooooxxxxxxoxxxoxxooooxoooooxoxooooxoxxooxoxxoooxoo@
+@ooxxooxoxoxoxoxxxxoxxxxooxooxxoooxxoooooxoxoooxoxxxooxoxxoxxxo@
+@ooxxxooxooooxxoxxxxxxxxooxxooxxooxxxoxoooxxxoooxxxxxoxxoxxoxxo@
+@ooxxxxooxoooxxxooxxxxxxxooxoooxxooooxxxoooxxxooooooooooooxoxxo@
+@ooxxxoxooxooxxxxooxxxxxxxxoxoooxxxooooxxoooxxxooxxxxxoooxoxxxo@
+@ooxooooxooxoxxxxoooxxxxxxxooxoooxoxooxxxoxooxxxooxxxxooooooxxo@
+@ooxxooxooxoxoxxxoooooxxxxxxooooooxxxxooooxxxxxxooooxxoooooooxo@
+@ooxoxooxxxxxxoxxooooooxxxxxxxoxxooxxoooooooxxxoxooooxooxooooxo@
+@ooxxooooooooxooxoooxxxxxxxxxxoooxxoxxxxxxxxxxxxoooooooxxoooxxo@
+@ooxooxoooxooxooooooooooooxxxxxooxxoooxxooooxxxoooooooooxoxoxxo@
+@ooxxxxxoxoxoxoxoooxoooooooxxxxxxooxooxoxxxxxxxxoooxoooooooxxxo@
+@ooxxoxoooooxoxoooxoooooooooooxxxoooxxooooxoxxxxxxoxxoooooooxxo@
+@ooxxxoxoooooxoooxoooooooooooxoxxxooxxxooxxoxxoooooooooooooxxxo@
+@oooxxxoxxxxxxooxoooooooooooxxxoxxxooxxoxxxxxxxoooooooxoooxxxoo@
+@ooxoxooxooooooxxoooooxxoooxxooooxxxoooxxxxxxxxooxxxooxxxxxxxoo@
+@oxxxoooooxoxoxxxxooooxoooxxxoooxooxxooxxxxxxoxxxxoxoooxxxxxxoo@
+@oxxoxooooxxxoxxxxxooooooxxoxooxoooxoxxooxxooxxxxoooxoooxxxxooo@
+@oxxxooooxxxoxooxxxxxoooxxxoxoxoooxooxxooxooxxxxxxoooxoooxxoooo@
+@ooxxxxxxxxxxoxxxxxxxxoxxooxxxoooxooxxoxxooxxxxxoxxoxxxoooooooo@
+@oooxxxxooxxoooooxxoxxxxoxxxxxxxxoxxxoxxxooxxxxxxooxxxxxxooooxo@
+@ooooxxxooxoxoooxxooxxxooooxxxoxoxxxoxxxoxxoxxxxxoxxxxooxooooxo@
+@ooooxxoxxxooxxxxoooxxoxooxoxoxoxxxoxxxoxxxxoxxoooxoooooxxooxoo@
+@ooooxoxxoxooxxxooooxxooxooxxxoxxxoxxxoxoxxxxoxooxooooooooxxoxo@
+@oooxoooooxoooxxoxoooxxooxoxxoxxxoxxxoxxxoooxxxoxxxxxxxxxxxxoxo@
+@ooxoxxoooxooooxxxxxooxxoxoxoxoxoxxxoxxxxxxxxxxxxoxxxxxxxxxxxoo@
+@oooxxxooxoooxxxxxxxxoxxxxxoxoooxoooxxxxxoxxxoxxooxxxxxxxooxoxo@
+@oooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo@
+@oooooooooooooooooooooooooooooooooooooooooooxoooooooooooooooooo@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=1808 Ox=2036 EmpAdj=0  
+ Player 1: 35457  Player 2: 41219
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@xxxxxooooooooooooooxxxooxoxoooooooooooooooooooooxxooooooxxxxxx@
+@xxoxoooxxxxxoxxxooooxxxoxoxoooooooxoxoxooooooooxooxxxxoooxxxox@
+@xoxoxoxoxxxoxoxoxooooxxoxooooooxoooooooooooxoooxoxxoooxoxoxoxx@
+@xxooxxoxoxoxxxoxoxoxoxxxooooooxoxxxoxoxxxxxoxxxoxooooxoooxxoox@
+@xoxoxxxoxoxxoxxoxoxooxxoxooxooxooxoxoooxxxoxxxxxoooooxooxxxoox@
+@xooxxxoxooxxxooxxxoxoxoxxxxxxoxoooxxxoooxxxxoxxxooooxooxxoooox@
+@xoxxxoxxoxoxxoxxxxxoooxxxxxxxxxooooxxxoooxxxxxxoxooxooxxooooox@
+@xoxxxxooxoxxoxxxxoooooooooxxxxxxooxxxxxoooxxxxxxoxooxxooooooox@
+@xoxxxxoxoxooxxoxxxxoooxxxooxxxoxoxxxxxxoxooxxxxoxoooxxxooxooox@
+@xoxxoxxoxoooxooxoxxooooxxxooxxxxxxxxoxxxxoxooxoxoooxxxoxoxooox@
+@xoxxxxxxoooooooxoxooxoxoxxxoxxoxxoxxooxxxxxxooxoooxxooxxoxooox@
+@xoxxxxxxxoooooooxooxxoxxxxxxoxxxooxoxxoxxxxxoooxoxxoxoxxooooox@
+@xoxoxxxxxooooooxooxoxoxxxxxxxoxxooxxxxxoxxxxooooxxoooxoxoooxox@
+@xooooxxxooooooxoooxxxxoxxxxxxxoxxoxoxxxooxxxooxoxxooxoxooooxox@
+@xooooxxxxooxoxoooooxxoxoxxxxoxoooooxxxoxxxxxxxxxoooxoooxooooox@
+@xoxoxxooxoxxxoooooxooooxoxxxxooooooooxxxxxoxxxxxxooxxoxoxoooox@
+@xooxxxooxxxxoooooxooooxxxxxxxxxxoooxxxxxxoxxxxxxxooxoxoxoxooox@
+@xooooxoxxxxoooooxoooxxxxxxxxooooooxoxxxxooxxxxxxxooxoxxooxooox@
+@xxooxxxxxxoooxoooooooxxxxxxxooooxoxooxxooxoxxxxxxooxoxxoxxooox@
+@xxxoxxxxxoooooooooooxxxxoxxooooxxoxxxoxoxxxxxxxxxooxoxxxxxooox@
+@xoxxoxxxoooooooxoxooxxxooxooooxxxooxoooooooooxxxxooxoxxxoxooox@
+@xoxoxoxxxxooooxxxooxoxoxxooooxxoxoxoxxxxxxxooxxxxxooxxxoxxooox@
+@xoxooxoxoxooooxxxxxoxooxooooxooxxoxxxxxoxooxoxxxxxoooxxooxoxox@
+@xoxoooxxxooooooxxxooooxooooxooxxoxoxxxxooooxoxooxxoxoxxoxooxxx@
+@xxxooxxxoooxxoxxxxxoxoooooxxooxooxoxxxoxooxooxxoxooxxoxxoxxxox@
+@xoxoxoxoooxooxxxxxoxoxxxxxxxooooooooooxoxoxxoxxxxxoxxxooxxxoxx@
+@xoxxxooooxxxxxxxooxooooxxxxoxoooooooxxoxxoooooxxxooxxoooxxoxxx@
+@xoxxoooooxxxxxxooxoooxoooooxooooooooxoxxxooooooxxooxxoxxxooxxx@
+@xoxoooooxxxxxxxoxxxxxoooooxoxoxxoooooooooxxoooooxooxooxxoxoxxx@
+@xoxooooooooooooxxxxooooooxoxxxooxoooooooooxxooxooxooxxxoxxxxox@
+@xoxxooooooooooxooxxxxoooooxxxxxoooooooxoooxxxooooooxxxxoxxxxxx@
+@xoxoxooxxxxoooooooooooooooooooxxoooooooxxoxxxooxxoooxoxoxxooox@
+@xoxoxxooxxxoxooxxoxxxoxoooxxoooxxooooooooooooooooxoxoxxxooxoxx@
+@xoxxoxxooxxooooxxxxxxoxooxoxxooooxooxoooxxoxxxxoxxoxxxxooxoxxx@
+@xoxxxxxxoxooooxoxoxxxoxoooooooooooooxxoxxoooxxxxoxoxooooxxoxox@
+@xoxxxxxooxoooooxoxxxxxxooxxxxxxooooxoxxxoooxxoxoxoooxxxxxxoxox@
+@xxoxxooxoxooxxxxxoxxxxxoooooxxxxoxooxoxxooxxxooooooooxxoxxxxox@
+@xxoooxoxoxoxoooooxoxxxxooooooxxxxooooxoxxooxxoooxoooxxxxxxxxox@
+@xxxxxxxoooxoxoooxxxxxxxooxooooxxxoxxxoooxxooxxooxoooxxoooxxoxx@
+@xxxxxoooooooxxoxoxxxxxooxxxooxxooxxxxoooooxooxxoxxoxoxxoxxooox@
+@xxxxxooooooxoxxxxoxxooxoxxxxxxxxxxxxoxxxxxoxoooxxxxxxxxxxoooox@
+@xxxxooooooxoxxxxxxooxxoxxxxxxooooxxoxxxoxoxxxooxxxxxooxxoooxxx@
+@xxoxoooxoooxoxoxooooxxxxxxxxooooxxoxxxxxoxxxxoooxoxoxxxxooxoxx@
+@xooxoooxxoooxxxxxxxxoxxxxxxooxxxooxoxxxoxxxxxxooxoxoxxxoxxooxx@
+@xooxoxooxxoxoxooxoooxooxxxoxoxxooooxoxoxoxxoxxooxoxxoxooooxoxx@
+@xoooxooxoxxxxooxoxxxoooxxoxooxoooxxoxoxoxoxxooxoooxxxoxxoxxoxx@
+@xxoooxxxxxxxxoxxxxxoooxxoxxoxoooxxoxoxoooxxxxoooxooxoxxxoxxoox@
+@xxxooooxxxxoxxxooxoooxxoxxxxoooxxoxoxoxooxxoxxoxoxoxxxxxxoooox@
+@xxoxooxxxxoxxxxoxoooxooooxxooooxxxoxoxoxxxoxxooxxoooxxoxxoooox@
+@xxxooxxxxoxxxxoxoooxooooxxooooxxxxxoxxxoxooxooxoxooooxxxoxxoox@
+@xxxoxoxxoxxxxoxoxxxxoooxxooooxoxxxxxoxoxoxoooxooxoxoxxxxxxxxox@
+@xxxxoxooxxxxoxoxxxxxxoxxooxxxxxxxoxxxoxxxoooxoooooxxxxxxxxxxox@
+@xxxxxooooxxoxxxxxxoxoxxooxoxoooxxooooxxxxooxooooooooxxxoooooox@
+@xxxxxooxoooxxxxxxxxoxxooxxxoxxooxxxoxxxxoxxoxoooooxxoxoxoxxxox@
+@xxoxooxoxooxxxxxxxoooooxoxxxoxooxxoxooxoxxxxoxoooxxoxxooooxxox@
+@xxxoooxxoxxoxxoxxooooxooxoxxoxoxxoxooxoxxoxxxoxooxoxxxoooooxox@
+@xxxoxxooxoxxoxoxoxooxxoooxoxxooxoxooxoxxoooxxxoxxoxxoxoxooooxo@
+@xxxxxooooxoxxooooxxooooxoooxoxxoxooooxxxxxxxxxxoooooxoxooxoooo@
+@xoxxxoooxoxoooooooxxooooxoooxxxxooxoooooooxxxxxooooxoooxoooxoo@
+@xxxxxxoxoxxxxxxooooooooooooooooooooooooooooooooooooooooooooooo@
+@xoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=2025 Ox=1819 EmpAdj=0  
+ Player 1: 37276  Player 2: 43244
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@oxxooooxxxoooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxoooooooooooxoxooxx@
+@oxoxxoxoxoxoxxoooooooxoxoxoxoooxxxxxoxxxoxoooooxxoxoxoxooxooxxxx@
+@oxxxxxooxooooxxoxxxxxooooxooxoxxxxxxooooxoooooxxxxxxoxoxoxoooxxx@
+@oxoxxxxoxoxoooxxoxxxooooxooxxxoxxxxxxoxxxoxoxoooooxoxoooxxooooxx@
+@oxoxxoxxxxxoxxoxxoooxooxooooxxxooooxoxoxooxoxxoooooxoxoxoxooooxx@
+@oxoxxxoxxxxxoxxoxooxxxxoooxooxxxooooxoxooxoxxoxoooooxoxooxooxxxx@
+@oxooxxxoxxoooxooooooxxoooooxooxxxooooxoxxoxoxooxxooooxoooxoxxxxx@
+@oooooxxxoxoooooooooxoooxooooooooooooxoxxoxooxoooxxoooooooxxoxxox@
+@oxooooxxxoxoooooxoooooooxoooooxooooooxxoxoxoxoxooxxoooooooxxoxox@
+@oxxoooxxxxoxoooooxoooooxooooooxxxooxxxoxxooxxxxxoooxoooooooxooxx@
+@oxoxoooxoxxoxxxoxooooooxooooooxooxooxoxxooxoxoxxxoooxooooooooxxx@
+@oooxooooxoxooooxoxoooooxooooxoxoxxoxoxoxoxxxxxxxxxooxxoxoxxoxxxx@
+@oooxoooooxoxooooxoxooooooooxoooxxoooxoooxxxxxxxoooxxoxxoooooxxox@
+@oooxoxooooxoxoooxoooooooooxxooxxxxoxxooooooooooooxooooxxooooxxox@
+@oooxoxxoooooxxxxxxxoxxoooxxoxxoxxxxoxoooxoooxxoooooooooxxoooxxox@
+@ooooxooooooooxxxxxxxxxxxoxoooxxxxxxxxxoxoxoxxxxooxoxxoooxooooxox@
+@oooxoxooooxooxxxxxxxxxoxxoxxxxxxxxxxxooxxoooxxxxoxxoxooooxooooox@
+@oooxooxooxooooxxxxoxxxxxxxooooxxoxxxxooxxxoxxxxxxoxxooooxoxooxox@
+@oxoooooxooooxxooxxxoxooooooooxooxooxxooxxoxxooooxxooxoooxxoooxox@
+@ooxoooooxooxxxxooxxoxooooooooooxooooxoxoooooxooooxxooxxxxxxooxox@
+@oooxoxoooxxxxoxxoxoxxxxoxxxxxoxxooooxxxxxxoxxooxooxxoxxxxxxxooox@
+@ooxoxxxooxxxxoxxxoooxoxxooxxoxoxooooxooxxxxxxooxxooxxxxxxoooooox@
+@oooxoxxxoooxxxxxxooooxoxxoxxxxxxoooxooooooxxxxooxxooxxxxooxxooox@
+@ooooooxxxxoxxxoxxxxxooxxxxoxxoxxooxooxoooxxxxxxooxxooxxoooxoxoxx@
+@oooxxoxxxxxoxoxxxxxxxoxxxoxoxooxoxoooxxooxoxxxxxooxxoooooooxxoxx@
+@ooxoxxxxxxxxoxoxxoxooxxxxxxoooxoxooooxoxxooxxxxxoxoxoooooxxoxxox@
+@ooxxxxxxxxxxxooxxxxoooxxxooooooxoooxooxxxxoooxxxooxoooooxoxoxxox@
+@oooxxxxxxxxxxxoxxooooxoxoxoxoooooooxooxoxxxoooxxoxooooooxxooxxox@
+@oxxoxxxxxxxxxxoooooxooxxxoxxxxooxooxoooxxxxxoooxoxooooooooxoxxox@
+@oxxxooxxxxxoxoxoxoxooxoxxxxxxxoxxooxooxoxxxoooooooxooooooooxxxox@
+@oxxoooxxxooxoxoxxxxxxxxxxxooooxooxxxoooxooxooooxxxoooxoooooxxoox@
+@oxoooxoxxoooxoxxxxoooxoxxxxoooxooxoxxooxxoxoxoxoxoooxxooooxoxxox@
+@oxxoxoxooxoooxxxxoxoooxxxooooooxxooxxxoooxxxooxxoxoxxxoooooxxxox@
+@oxoxoxooooxoxxxooxoooooxxxxxxooxxooxxxxxxxxxxoxoxxxxxooooxooxoox@
+@oxxoxxoooooxxxxoooxoxooxoxxxooxxoooxxxoxoxxxoooxoxxoxooooooooxox@
+@oxoxooxoooxxxooxoooooxoxooxxxxxoooxxxxooxoxxxoxxxoxooxxoxoooooox@
+@oxxxoooooooxxxxxxxxxxxxxoxooxxoooxoxxxoxoxxxoxxxxxooooxxoxoooxox@
+@oxxxxooooooxxxoooxoooooxoooxxoooxoxoxoxooxxoxxxxxoooooxxxoooooox@
+@ooxxoxooooxooooooxxoxooxxoxxxooxoooxxxooxxoxxxxxoooxooxxxoooxxox@
+@oooxxxxooxooooxxoxxxoooxoxxxoxxooxxxxxoxxxxxxxxooooxxooxooooxxox@
+@oooxxxxoxxxooooooooooooxoxxoxxxoxxxxxxoooxxxxxooooooxxooooxxoxox@
+@ooxoxxxxxoxxoxxxoxxxoxxxxxxxxxoxoxxoxooooxxxxooooxxooooooxxxoxox@
+@ooxxooxxoooxxoxooxxooooxooxxxxxxxxxoxxoxxxoxoooooxxxooooxxxxoxox@
+@ooxxxooooxxoxxoxoxooxoooooxxxxxxxooxxxxxxxooxooxxoxxxooooxxxxxox@
+@ooxxxxooxxxxxxxooxxxoxxooooxxxoxxooxxxxxxooxoooooooxoooxoxoxxoox@
+@ooxxxxxooooxoooxooxxxxooooooxxxooxoxxxoxxxxoooooxooooxxoxxoxxxox@
+@ooxoxxxxxxxooxxoxxxoxxxxxooooxxoooxxxxxxxxxxoooooxooooxxoxoxxoox@
+@ooxooxxxoooxoxoxxxxxxxxoxxoooooooooxxooxxxxxxxxxooxooooxxxxoooox@
+@oooxooxxxooxxxxxxxxxoxxoxxxooooooooxooxoxoxxxxxxxoxooxooxxxooxxx@
+@ooxoxxoxxxxoxxoooooooxooxxxxoooooooooxxooxoxxxxoxxoooxxoxxxoxxox@
+@oooxoxxoxxxoooooxxoxooooxxxxxoooooooxxooooxoxxoxoxxoooxxoxoxxxxx@
+@oooxxoxxxxxxxoxoooxxooooooooooooooxooooooooxooxooxxooxoxxxxxxxox@
+@ooooxooxxxooxooxooxxoxxoxxooooooooxoooooxooxxoxxoxxoooxxxxxoxxxx@
+@oooxoxxoxxxxoxooxxxxoxxxxoooxxooooxxxxxxxxooxxoxooxoxooxxxxxxxxx@
+@ooxoxoxxooxxxoxooooxoxxxxooxxxxooxoooooooxoxxxxoxxooxxooxxxxxxxx@
+@ooxoxxoxoooxooxxoooxoxxxooxxxxoxxooooooooooxoxxxoxooxooxoxoxxxxx@
+@ooxooxxoxoooxxxxxoooxxxoooxxxooxooxoooooooooxxxxxoxoooxoxxooxxxx@
+@ooxooooxoxooxxxxxxooxxxooxxxoooooxooooooooooxxxxxxoooxoxoxoooxxx@
+@ooxxxxoxxxxxooooooooooooxoxooooooxxooxoooxoooxxxoxxoxxxooxooxoxx@
+@ooxxxoxxxxxooooxxoxooooxoxoxoooxxoxxxoxxxxooooxxxxxxoxooxxooooxx@
+@oooxoxoooooxxxxxoxooooooxooooooxoxxxoxxxxoxxxxxxxxxxxooxooooooxx@
+@ooxoxxxoooxxxxxooooooooooooooooxxxxxxxxxxxxxxxxxxxxxooxooxooxxxx@
+@ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxo@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=1998 Ox=2098 EmpAdj=0  
+ Player 1: 39274  Player 2: 45342
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@oxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@
+@oxxoooooxxoooooooooooooxxxoooooooooooooooooooooooooooxxoxxoxoxxx@
+@oxoxoxxoxxxoxoooxxoxxooxxoxoooooxxxxooooooooooxoxxxxxoxxoxxxxxxx@
+@oxxoxxxoooxxoooxxxxxxoxxoxooooooooxooooxoooxoxoooxxxoxooxoxxxoxx@
+@oxxxoxxooxxxxoxooxoxoxooooooxoxooxooooxoxxxoooxxxoxoooooooxxooxx@
+@oxxxoxxoxoxxxxoxxxxoxooooooxoxoxxooooxoxxxooooxxxooxoxooxoxxooxx@
+@oxxooxoxxxoxxxxxxxoxoxxooxxoxoxxooooxoxxooxooxxxxxxoxxxxxoxoooxx@
+@oxxoooxxxxxoxxxxooxoxxoxoxoxoxxoooxxoxxxxooooxxxxoxoxxxxxoooxoxx@
+@oxxooxxxxxoooxxxoxooxoxxooxoxxoooxxoxxxxxxoooxxxooxxxxxxxooxxoxx@
+@oxxoxoxxooooxooxoxoxooxxoxooooooxxoxxoooooooooxxoooooooooxxxxxxx@
+@oxoxxxxxxxoxxoooooxoooooooxooooxxoxxxxxxxxxooooxxxxxoxxxxxxxooxx@
+@oxooxxxxxxxxoooooooxxoxooxooooxxoxxxxxxxxxxxxxoxoxooxxooxxxxooxx@
+@oxoxoxxxxxxoooxoooxooxooxxxxxxxoxxxxxxxxxxxxxoxxoooxxooxxoooooxx@
+@oxooxxxxxxxoxxoooxxxxooxoooxxxoxxxoxoooxxxxxoxoxooxxxxooxxooooxx@
+@oxxxxxoxxxoxxooxoxoxxxxxxxxxxoxxxxxoooxoooooxooxoxxxxxooxxxxooxx@
+@oxxxxooxxoxxoooxoxxxxxxxoxxxooxxxxooxxxxxooxooxxxxxxxxxxxxxxooxx@
+@oxxxoooxooxooooxooxxxxxxxooxoxoxxoooxxxxxoooxoxxxoooooooooooooxx@
+@oxxxooxxoxoooxxoooxxxxxxoooxxooooooxoxxxooooxxxxxxxxxooxxxoxooxx@
+@oxxoooxxxooooxxxoooxxxxxxoooooooooooxoxxooxxxxxxxxoxxxxxxxxxxoxx@
+@oxxoooxxoooxooxxxoxxooxxxxooxooxxxoxxooooooooxxxoxoxxxoooxoxxoxx@
+@ooxoxoooooxxxoxooxoxoooxxxxoooooxoxxxoooxooxxoxxxoxxoxxooxoxooxx@
+@oxooxoooxoxxxxxxoxxoxooxxxxxooxxoxoxxooxoooxxoxooxxxooxxxxoxxxxx@
+@oxxoxooxooooxxxxoxxxoxooxxxxxooxxxxxxoooxxxxooxooxxxoooxxxooxoxx@
+@ooxoxoooooxxxxxoxxxxxooooxxxxxooxxxxoooxoxxxoooxxoxxoxxooxoxxoxx@
+@oxoxooxxxxxxxxxooxxoxooxooxoxxxooxxoxoxxxoxoxooxxxoxoxoooxoxxoxx@
+@oooxoxxxxxxxxoooxxooxoooxoxxxxxxoooxoxoxxxoxoxooxxxoxooooxxoxoxx@
+@ooooxxxoxoxxoooxooooxxoxoxoxxxxoxoooxxoooxxoxoxooxoxoooooxxxooxx@
+@xoooooxxxxxooxxoooooxoxoxooxxxxxxxoxxoxoooxxoxoxoxxoxoooooxxxoxx@
+@xxooxxoxxoooooooooooxxxxoooxxxxxooxxoxoxooxxoxooxxoooooooooxxoxx@
+@xxxoooooxoooxxooooooxxxxoxooxxxooooxxoxoxoxoooxxxoxxxxxoooxoxoxx@
+@xooxooxxoxoooxxoooooxxxxxoxooxooxooxoxooxoxxoxoooxxoxooooxxoooxx@
+@xoxxxooxxoxoxoxooooxxoxxxxoxoooooxoxxoxoxoxxooooxxoxoooxxxxoooxx@
+@xoxxxxxoxxxxoxoxoooxxxoxxxxoxoxooooxoxoooooooooxoxxooooxxxxoooxx@
+@xooxxoxooxxoxoooxxoxxxooxxxxoxoxooxoooooooooooxoxxoooooooxxoxoxx@
+@xooxxoxxooxooxoooxoxxoxxoxxxxoooxxoxoxoooooooooxxxxoxoxoxxxxooxx@
+@xoxoxxxxoooxoxxoooxxoxxoxoxxxxooxooxxoxoxooooooxooxxoooxxxxoxoxx@
+@xooxxxxxooooxxoxoxoxxxoxxooxxxxxoooxoxxoxxooooxooooxxooooxxxxoxx@
+@xooxooxxoooooxooxxoxxoxxxoxxxxxxooooxxoooxxooxoxoooxxxooxxxxxoxx@
+@xooooooxooxooooxxxoxoxxxxxoxxxxxxooxxoooooxxxoxoxoooxxxooxoxxoxx@
+@xooooooxoxooxxooxxooxxxxxxxoxxxxxxoxxooooxoxoooxoxoxooxxoxxxxoxx@
+@xooooooooooxoxoooxoooxoxxoxxoxxxxxxxooooxoxoooooxxxxoooxxxooxoxx@
+@xooxoooooxooxooooxxoxoxooxxxxoxxxxxxxooxoxoooooxxxoxxoooxxooxoxx@
+@xoxooooxoxoooxoooxxooxxooxxxxxxxxoxxoxxoxooxooxoxoxxoooooxxoxoxx@
+@xoxooxoxoxxooxxooxxxxoxoxoooooooxxooxxoxoooxoxoxooxoxooooxxoxoox@
+@xoxoooxxoxoxoooxoooooxxxoooxxxxoooooxoooxoxoooxxoxoooxxoxxxxooox@
+@xoxooooxoooooxooxxxxxxxxxxxxxxxoooxoooxooxooooooxooooxooxxxxooox@
+@xoxoxooooooooxxxxxxxoxxxooooooxooxoooxoxooxoooxxoooxooxooooxxoox@
+@xoxoxxoooooooxooxoxoxxxxxooxooxoxxxoxooooooxooxxooxxooxxoxoxxoox@
+@xoooxoxoooxooooxoxoxoxxooxxoxoxxxxoxxxxxoxoxxoxoxxoxoxxxxoooxxox@
+@xoooxxxxooooooxoxooooxxxooxxoxooooxoooxoooxooxxooxxxxxxxoxooooox@
+@xooooooooooooxoxooooooxxxoooxoxooxxxxoxxoxxxxxxoxxxxxoooxoxoxoox@
+@xoooxxxxxxooxoxooxoooooxxxoxxxoxxooxxxooxxxxxxxooxxxxxxxoxxoxoox@
+@xooxxxxxxoxxooooxxoooxxoxxxxooxoxxooxxoooxxxxoxoxoxoooooxooxooox@
+@xoxxxoxoooxoxoooxxoxoooxoxxxoooxoxxooxxooxxxxxoooxxoxxxxoooooxox@
+@xoxxxxoooxoxxooxxoxxxoooooooooooxoxxooxxoxxoxxoooxxoxxxoooooxxox@
+@xoxoooooxoooooxxoxxxxooxxooooooxoooxxoxxxxxooxooxoooooooxxoxxxox@
+@xoooxooxoooooxxoxxoxxooxoooooxooxoooxxxxxxoxxoooxooooxoxoxxxxxox@
+@xooxoxxoxxxxxxoxxxxoxoxooooooxxooxoooxxxxxoooooooooxooxooxxxxxoo@
+@xoxoxxoooooxxoooxxxoxoooxoooxxxxooxooooxoooooooooooooxooxxxxxxoo@
+@xooxxooxooooxxxoxxxxoooxxooxxxoxxxoxxxoooooxoxoooooooooxxxxxxoxo@
+@xoxxoooxxooooxxxxxxxoooxooxxxxxoooooxooooxxoxoxoxooooxxxxoxxxxoo@
+@xoxooxxoxxooooxxxxxxxxoooxooxoxooxoooxoooooooooooooooooxxxxxxooo@
+@xxoooooooxxooooxxxoooooooooooxxxxxxxxoooooooooxoooooooxxxxxxxooo@
+@xooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ Xs=2042 Ox=2054 EmpAdj=0  
+ Player 1: 41328  Player 2: 47384
+
+
+totals...
+ #1:   -6  -0.0938  -0.0938 #2:    6   0.0938   0.0938
+ #1:    0   0.0000  -0.0938 #2:    0  -0.0000   0.0938
+ #1:   22   0.2200   0.1262 #2:  -22  -0.2200  -0.1262
+ #1:   -8  -0.0800   0.0463 #2:    8   0.0800  -0.0463
+ #1:    0   0.0000   0.0463 #2:    0  -0.0000  -0.0463
+ #1:  -16  -0.1111  -0.0649 #2:   16   0.1111   0.0649
+ #1:  -40  -0.2041  -0.2689 #2:   40   0.2041   0.2689
+ #1:  -86  -0.4388  -0.7077 #2:   86   0.4388   0.7077
+ #1:   29   0.1133  -0.5944 #2:  -29  -0.1133   0.5944
+ #1:  -29  -0.1133  -0.7077 #2:   29   0.1133   0.7077
+ #1:   29   0.0895  -0.6182 #2:  -29  -0.0895   0.6182
+ #1:  -29  -0.0895  -0.7077 #2:   29   0.0895   0.7077
+ #1:   29   0.0725  -0.6352 #2:  -29  -0.0725   0.6352
+ #1:  -29  -0.0725  -0.7077 #2:   29   0.0725   0.7077
+ #1:   29   0.0599  -0.6478 #2:  -29  -0.0599   0.6478
+ #1:  -29  -0.0599  -0.7077 #2:   29   0.0599   0.7077
+ #1:   38   0.0660  -0.6417 #2:  -38  -0.0660   0.6417
+ #1: -236  -0.4097  -1.0515 #2:  236   0.4097   1.0515
+ #1:  -66  -0.0976  -1.1491 #2:   66   0.0976   1.1491
+ #1:    2   0.0030  -1.1461 #2:   -2  -0.0030   1.1461
+ #1: -126  -0.1607  -1.3069 #2:  126   0.1607   1.3069
+ #1: -122  -0.1556  -1.4625 #2:  122   0.1556   1.4625
+ #1:  -44  -0.0489  -1.5114 #2:   44   0.0489   1.5114
+ #1:   60   0.0667  -1.4447 #2:  -60  -0.0667   1.4447
+ #1:  -56  -0.0547  -1.4994 #2:   56   0.0547   1.4994
+ #1: -172  -0.1680  -1.6673 #2:  172   0.1680   1.6673
+ #1: -324  -0.2803  -1.9476 #2:  324   0.2803   1.9476
+ #1: -276  -0.2388  -2.1864 #2:  276   0.2388   2.1864
+ #1:  -24  -0.0185  -2.2049 #2:   24   0.0185   2.2049
+ #1: -232  -0.1790  -2.3839 #2:  232   0.1790   2.3839
+ #1: -342  -0.2368  -2.6208 #2:  342   0.2368   2.6208
+ #1:   90   0.0623  -2.5584 #2:  -90  -0.0623   2.5584
+ #1: -134  -0.0838  -2.6422 #2:  134   0.0838   2.6422
+ #1: -178  -0.1112  -2.7534 #2:  178   0.1112   2.7534
+ #1: -264  -0.1497  -2.9031 #2:  264   0.1497   2.9031
+ #1: -106  -0.0601  -2.9632 #2:  106   0.0601   2.9632
+ #1:    6   0.0031  -2.9601 #2:   -6  -0.0031   2.9601
+ #1: -234  -0.1209  -3.0809 #2:  234   0.1209   3.0809
+ #1: -166  -0.0784  -3.1594 #2:  166   0.0784   3.1594
+ #1:  -48  -0.0227  -3.1821 #2:   48   0.0227   3.1821
+ #1:   40   0.0174  -3.1647 #2:  -40  -0.0174   3.1647
+ #1: -130  -0.0564  -3.2211 #2:  130   0.0564   3.2211
+ #1:  -98  -0.0392  -3.2603 #2:   98   0.0392   3.2603
+ #1: -138  -0.0552  -3.3155 #2:  138   0.0552   3.3155
+ #1:  -84  -0.0311  -3.3466 #2:   84   0.0311   3.3466
+ #1:  272   0.1006  -3.2460 #2: -272  -0.1006   3.2460
+ #1: -202  -0.0693  -3.3153 #2:  202   0.0693   3.3153
+ #1: -270  -0.0926  -3.4079 #2:  270   0.0926   3.4079
+ #1: -484  -0.1543  -3.5622 #2:  484   0.1543   3.5622
+ #1: -244  -0.0778  -3.6400 #2:  244   0.0778   3.6400
+ #1: -494  -0.1468  -3.7869 #2:  494   0.1468   3.7869
+ #1:   44   0.0131  -3.7738 #2:  -44  -0.0131   3.7738
+ #1: -328  -0.0911  -3.8649 #2:  328   0.0911   3.8649
+ #1: -330  -0.0917  -3.9566 #2:  330   0.0917   3.9566
+ #1: -228  -0.0593  -4.0159 #2:  228   0.0593   4.0159
+ #1: -206  -0.0536  -4.0695 #2:  206   0.0536   4.0695
+ #1: -100  -0.0244  -4.0939 #2:  100   0.0244   4.0939
+ #1:   12   0.0029  -4.0910 #2:  -12  -0.0029   4.0910
