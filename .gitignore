@@ -1,0 +1,4 @@
+/ignore/
+*.xSYM
+*.dbg
+.DS_Store
