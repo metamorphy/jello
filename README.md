@@ -1,6 +1,6 @@
 # Jello
 
-An *n*×*n* Othello (Reversi) engine written in C in January 1997 by Jeff Mallett.
+An *n*×*n* Othello (Reversi) engine written in C by Jeff Mallett.
 
 ```text
 @@@@@@@@@@
@@ -17,7 +17,12 @@ An *n*×*n* Othello (Reversi) engine written in C in January 1997 by Jeff Mallet
 
 An 8×8 position from one of Jello's debug logs ([`misc/log1.txt`](misc/log1.txt)), just after White played the `O`. `x` is Black, `o` is White and `@` is the border. A digit marks an empty square next to a disk and counts its filled neighbors (the border counts as filled). `.` marks the remaining empty edge squares.
 
-It was submitted to the [MacTech Magazine](https://en.wikipedia.org/wiki/MacTech) programming contest and won. The contest asked for a player that implemented a fixed `Othello()` entry point, used only the host-provided storage, and played well on even board sizes from 8×8 up to 64×64 under a time budget.
+It won the [MacTech Magazine](https://en.wikipedia.org/wiki/MacTech) "Programmer's Challenge" for February 1997 (v.13 Issue 2) and was published in the May 1997 issue (v.13 Issue 5). The contest asked for a player that implemented a fixed `Othello()` entry point, used only the host-provided storage, and played well on even board sizes from 8×8 up to 64×64. For each game, a player's score would be computed:
+```
+[ (# of player's pieces showing - # of opponent's pieces showing) -
+  (execution time in seconds)/30 ]
+/ (boardSize * boardSize)
+```
 
 The search is alpha-beta with iterative deepening, a transposition table, a solve extension near the end of the game, futility cut-off, and light selectivity. Timing uses classic Mac Toolbox ticks (`LMGetTicks`).
 
